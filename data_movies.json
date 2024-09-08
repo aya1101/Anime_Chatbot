@@ -1,0 +1,589 @@
+{
+    "Makeine: Too Many Losing Heroines!": {
+        "title": "Makeine: Too Many Losing Heroines!",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Học đường",
+            "Đời thường"
+        ],
+        "rating": [
+            "8.7",
+            "99"
+        ]
+    },
+    "Shoshimin: How to Become Ordinary": {
+        "title": "Shoshimin: How to Become Ordinary",
+        "genre": [
+            "Anime",
+            "Học đường",
+            "Đời thường"
+        ],
+        "rating": [
+            "7.3",
+            "47"
+        ]
+    },
+    "Atri: My Dear Moments": {
+        "title": "Atri: My Dear Moments",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Drama"
+        ],
+        "rating": [
+            "7.5",
+            "41"
+        ]
+    },
+    "Pokémon Horizons: The Series": {
+        "title": "Pokémon Horizons: The Series",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "5.3",
+            "201"
+        ]
+    },
+    "One Piece": {
+        "title": "One Piece",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu",
+            "Shounen",
+            "Drama"
+        ],
+        "rating": [
+            "9.0",
+            "16359"
+        ]
+    },
+    "Giji Harem": {
+        "title": "Giji Harem",
+        "genre": [
+            "Anime",
+            "Học đường",
+            "Đời thường",
+            "Shounen"
+        ],
+        "rating": [
+            "8.7",
+            "107"
+        ]
+    },
+    "Mob kara Hajimaru Tansaku Eiyuutan": {
+        "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Harem",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "7.2",
+            "107"
+        ]
+    },
+    "Synonyms: Why Nobody Remembers My World?": {
+        "title": "Synonyms: Why Nobody Remembers My World?",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "7.5",
+            "82"
+        ]
+    },
+    "Tensui no Sakuna-hime": {
+        "title": "Tensui no Sakuna-hime",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu nhiên"
+        ],
+        "rating": [
+            "5.1",
+            "26"
+        ]
+    },
+    "Quality Assurance in Another World": {
+        "title": "Quality Assurance in Another World",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu nhiên",
+            "Phiêu lưu",
+            "Viễn tưởng"
+        ],
+        "rating": [
+            "6.6",
+            "48"
+        ]
+    },
+    "NieR:Automata Ver1.1a": {
+        "title": "NieR:Automata Ver1.1a",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Giả tưởng",
+            "Viễn tưởng"
+        ],
+        "rating": [
+            "8.3",
+            "192"
+        ]
+    },
+    "Boku no Hero Academia 7th Season": {
+        "title": "Boku no Hero Academia 7th Season",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Học đường",
+            "Siêu năng lực",
+            "Shounen"
+        ],
+        "rating": [
+            "8.9",
+            "175"
+        ]
+    },
+    "Tensei shitara Slime Datta Ken 3rd Season": {
+        "title": "Tensei shitara Slime Datta Ken 3rd Season",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Giả tưởng",
+            "Shounen",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.9",
+            "455"
+        ]
+    },
+    "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai": {
+        "title": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.2",
+            "185"
+        ]
+    },
+    "Tasogare Outfocus": {
+        "title": "Tasogare Outfocus",
+        "genre": [
+            "Anime",
+            "Học đường",
+            "Đời thường"
+        ],
+        "rating": [
+            "3.2",
+            "116"
+        ]
+    },
+    "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made": {
+        "title": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Drama",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.2",
+            "203"
+        ]
+    },
+    "Gimai Seikatsu": {
+        "title": "Gimai Seikatsu",
+        "genre": [
+            "Anime",
+            "Tình cảm"
+        ],
+        "rating": [
+            "8.9",
+            "153"
+        ]
+    },
+    "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san": {
+        "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Tình cảm",
+            "Học đường"
+        ],
+        "rating": [
+            "9.2",
+            "350"
+        ]
+    },
+    "Doraemon Movie 43 Nobita Và Bản Giao Hưởng Địa Cầu": {
+        "title": "Doraemon Movie 43 Nobita Và Bản Giao Hưởng Địa Cầu",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.8",
+            "17"
+        ]
+    },
+    "Senpai wa Otokonoko": {
+        "title": "Senpai wa Otokonoko",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Học đường"
+        ],
+        "rating": [
+            "5.6",
+            "23"
+        ]
+    },
+    "Isekai Shikkaku": {
+        "title": "Isekai Shikkaku",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.2",
+            "107"
+        ]
+    },
+    "Katsute Mahou Shoujo to Aku wa Tekitai Shiteita": {
+        "title": "Katsute Mahou Shoujo to Aku wa Tekitai Shiteita",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Siêu nhiên"
+        ],
+        "rating": [
+            "8.2",
+            "60"
+        ]
+    },
+    "Henjin no Salad Bowl": {
+        "title": "Henjin no Salad Bowl",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Giả tưởng"
+        ],
+        "rating": [
+            "7.6",
+            "49"
+        ]
+    },
+    "Maou Gun Saikyou No Majutsushi Wa Ningen Datta": {
+        "title": "Maou Gun Saikyou No Majutsushi Wa Ningen Datta",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu nhiên",
+            "Xuyên không"
+        ],
+        "rating": [
+            "7.1",
+            "116"
+        ]
+    },
+    "Mission: Yozakura Family": {
+        "title": "Mission: Yozakura Family",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Tình cảm",
+            "Siêu năng lực"
+        ],
+        "rating": [
+            "8.4",
+            "146"
+        ]
+    },
+    "Shy": {
+        "title": "Shy",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu năng lực",
+            "Drama"
+        ],
+        "rating": [
+            "5.2",
+            "69"
+        ]
+    },
+    "Midnight Punch": {
+        "title": "Midnight Punch",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Đời thường"
+        ],
+        "rating": [
+            "5.7",
+            "38"
+        ]
+    },
+    "Madougushi Dahliya wa Utsumukanai": {
+        "title": "Madougushi Dahliya wa Utsumukanai",
+        "genre": [
+            "Anime",
+            "Giả tưởng",
+            "Đời thường",
+            "Dị giới"
+        ],
+        "rating": [
+            "6.6",
+            "25"
+        ]
+    },
+    "The Fable": {
+        "title": "The Fable",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Seinen"
+        ],
+        "rating": [
+            "6.8",
+            "35"
+        ]
+    },
+    "Ramen Akaneko": {
+        "title": "Ramen Akaneko",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Shounen"
+        ],
+        "rating": [
+            "6.7",
+            "11"
+        ]
+    },
+    "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru": {
+        "title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru",
+        "genre": [
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "7.5",
+            "136"
+        ]
+    },
+    "The Elusive Samurai": {
+        "title": "The Elusive Samurai",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Lịch sử",
+            "Drama",
+            "Phiêu lưu",
+            "Samurai"
+        ],
+        "rating": [
+            "7.9",
+            "72"
+        ]
+    },
+    "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu": {
+        "title": "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu",
+            "Dị giới"
+        ],
+        "rating": [
+            "7.3",
+            "96"
+        ]
+    },
+    "Wistoria: Wand and Sword": {
+        "title": "Wistoria: Wand and Sword",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Học đường",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.6",
+            "231"
+        ]
+    },
+    "Tower of God Season 2": {
+        "title": "Tower of God Season 2",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Bí ẩn",
+            "Giả tưởng",
+            "Drama",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.9",
+            "140"
+        ]
+    },
+    "Fairy Tail: 100 Years Quest": {
+        "title": "Fairy Tail: 100 Years Quest",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Giả tưởng",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "9.4",
+            "214"
+        ]
+    },
+    "Tasuuketsu": {
+        "title": "Tasuuketsu",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Drama"
+        ],
+        "rating": [
+            "3.3",
+            "30"
+        ]
+    },
+    "Sengoku Youko": {
+        "title": "Sengoku Youko",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Giả tưởng",
+            "Shounen",
+            "Drama",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "7.1",
+            "82"
+        ]
+    },
+    "Toàn Chức Pháp Sư": {
+        "title": "Toàn Chức Pháp Sư",
+        "genre": [
+            "Hành động",
+            "Siêu năng lực",
+            "CN Animation"
+        ],
+        "rating": [
+            "9.0",
+            "27"
+        ]
+    },
+    "Kengan Ashura 3nd Season": {
+        "title": "Kengan Ashura 3nd Season",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Võ thuật"
+        ],
+        "rating": [
+            "8.3",
+            "52"
+        ]
+    },
+    "Kim Ngô Vệ": {
+        "title": "Kim Ngô Vệ",
+        "genre": [
+            "Hành động",
+            "Thám tử",
+            "CN Animation",
+            "Huyền ảo"
+        ],
+        "rating": [
+            "6.1",
+            "46"
+        ]
+    },
+    "Suicide Squad ISEKAI": {
+        "title": "Suicide Squad ISEKAI",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Xuyên không"
+        ],
+        "rating": [
+            "8.1",
+            "79"
+        ]
+    },
+    "SPY×FAMILY CODE: White": {
+        "title": "SPY×FAMILY CODE: White",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Đời thường"
+        ],
+        "rating": [
+            "9.5",
+            "53"
+        ]
+    },
+    "Bye Bye, Earth": {
+        "title": "Bye Bye, Earth",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Giả tưởng",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "6.3",
+            "14"
+        ]
+    },
+    "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II": {
+        "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Tình cảm",
+            "Giả tưởng",
+            "Quân đội"
+        ],
+        "rating": [
+            "7.3",
+            "53"
+        ]
+    }
+}

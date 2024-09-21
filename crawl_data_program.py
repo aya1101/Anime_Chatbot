@@ -65,7 +65,7 @@ def fetch_pages(start_page, end_page):
     current_page = start_page
     film_list = []
     while current_page <= end_page:
-        url = f"https://animehay.biz/the-loai/anime-{current_page}.html"
+        url = f"https://animehay.cam/the-loai/anime-{current_page}.html"
         print(f"Processing on page: ", url)
 
         soup = fetch_soup(url)
@@ -120,7 +120,7 @@ def json_to_csv(json_filename, csv_filename):
 
     df.to_csv(csv_filename + '.csv', encoding='utf-8', index=False)
 
-all_soups = fetch_pages(1, 2)
+all_soups = fetch_pages(1, 200)
 
 all_links = []
 for soup in all_soups:

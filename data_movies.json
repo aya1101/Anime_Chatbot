@@ -1,4 +1,278 @@
 {
+    "Tower of God Season 2": {
+        "title": "Tower of God Season 2",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Bí ẩn",
+            "Giả tưởng",
+            "Drama",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.5",
+            "150"
+        ]
+    },
+    "Fairy Tail: 100 Years Quest": {
+        "title": "Fairy Tail: 100 Years Quest",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Giả tưởng",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "9.2",
+            "226"
+        ]
+    },
+    "Makeine: Too Many Losing Heroines!": {
+        "title": "Makeine: Too Many Losing Heroines!",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Học đường",
+            "Đời thường"
+        ],
+        "rating": [
+            "8.7",
+            "110"
+        ]
+    },
+    "The Elusive Samurai": {
+        "title": "The Elusive Samurai",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Lịch sử",
+            "Drama",
+            "Phiêu lưu",
+            "Samurai"
+        ],
+        "rating": [
+            "8.0",
+            "74"
+        ]
+    },
+    "Madougushi Dahliya wa Utsumukanai": {
+        "title": "Madougushi Dahliya wa Utsumukanai",
+        "genre": [
+            "Anime",
+            "Giả tưởng",
+            "Đời thường",
+            "Dị giới"
+        ],
+        "rating": [
+            "7.2",
+            "33"
+        ]
+    },
+    "Plus-Sized Elf": {
+        "title": "Plus-Sized Elf",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Harem",
+            "Siêu nhiên"
+        ],
+        "rating": [
+            "4.0",
+            "57"
+        ]
+    },
+    "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream": {
+        "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Tình cảm",
+            "Giả tưởng",
+            "Đời thường"
+        ],
+        "rating": [
+            "6.7",
+            "49"
+        ]
+    },
+    "Atri: My Dear Moments": {
+        "title": "Atri: My Dear Moments",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Drama"
+        ],
+        "rating": [
+            "7.5",
+            "41"
+        ]
+    },
+    "Strike the Blood V": {
+        "title": "Strike the Blood V",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Tình cảm",
+            "Harem",
+            "Học đường",
+            "Siêu nhiên",
+            "Ma cà rồng"
+        ],
+        "rating": [
+            "8.4",
+            "127"
+        ]
+    },
+    "Sengoku Youko": {
+        "title": "Sengoku Youko",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Giả tưởng",
+            "Shounen",
+            "Drama",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "7.2",
+            "83"
+        ]
+    },
+    "Wistoria: Wand and Sword": {
+        "title": "Wistoria: Wand and Sword",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Học đường",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.5",
+            "249"
+        ]
+    },
+    "One Piece": {
+        "title": "One Piece",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu",
+            "Shounen",
+            "Drama"
+        ],
+        "rating": [
+            "9.0",
+            "16361"
+        ]
+    },
+    "Senpai wa Otokonoko": {
+        "title": "Senpai wa Otokonoko",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Học đường"
+        ],
+        "rating": [
+            "5.8",
+            "24"
+        ]
+    },
+    "Koi wa Futago de Warikirenai": {
+        "title": "Koi wa Futago de Warikirenai",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Tình cảm"
+        ],
+        "rating": [
+            "6.4",
+            "40"
+        ]
+    },
+    "Synonyms: Why Nobody Remembers My World?": {
+        "title": "Synonyms: Why Nobody Remembers My World?",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu nhiên",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "7.6",
+            "85"
+        ]
+    },
+    "Tensui no Sakuna-hime": {
+        "title": "Tensui no Sakuna-hime",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Siêu nhiên"
+        ],
+        "rating": [
+            "5.1",
+            "26"
+        ]
+    },
+    "Pokémon Horizons: The Series": {
+        "title": "Pokémon Horizons: The Series",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "5.3",
+            "202"
+        ]
+    },
+    "Giji Harem": {
+        "title": "Giji Harem",
+        "genre": [
+            "Anime",
+            "Học đường",
+            "Đời thường",
+            "Shounen"
+        ],
+        "rating": [
+            "8.8",
+            "117"
+        ]
+    },
+    "Boku no Hero Academia 7th Season": {
+        "title": "Boku no Hero Academia 7th Season",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Học đường",
+            "Siêu năng lực",
+            "Shounen"
+        ],
+        "rating": [
+            "8.9",
+            "182"
+        ]
+    },
+    "2.5-jigen no Ririsa": {
+        "title": "2.5-jigen no Ririsa",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Harem",
+            "Học đường",
+            "Đời thường",
+            "Ecchi"
+        ],
+        "rating": [
+            "8.4",
+            "97"
+        ]
+    },
     "NieR:Automata Ver1.1a": {
         "title": "NieR:Automata Ver1.1a",
         "genre": [
@@ -32,8 +306,8 @@
             "Đời thường"
         ],
         "rating": [
-            "3.2",
-            "120"
+            "3.3",
+            "121"
         ]
     },
     "Quality Assurance in Another World": {
@@ -46,8 +320,8 @@
             "Viễn tưởng"
         ],
         "rating": [
-            "6.7",
-            "49"
+            "6.8",
+            "50"
         ]
     },
     "Tensei shitara Slime Datta Ken 3rd Season": {
@@ -61,8 +335,8 @@
             "Phiêu lưu"
         ],
         "rating": [
-            "8.8",
-            "463"
+            "8.9",
+            "464"
         ]
     },
     "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san": {
@@ -75,7 +349,7 @@
         ],
         "rating": [
             "9.2",
-            "369"
+            "378"
         ]
     },
     "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made": {
@@ -89,7 +363,7 @@
         ],
         "rating": [
             "8.2",
-            "215"
+            "217"
         ]
     },
     "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai": {
@@ -102,7 +376,7 @@
         ],
         "rating": [
             "8.3",
-            "197"
+            "202"
         ]
     },
     "Gimai Seikatsu": {
@@ -113,7 +387,7 @@
         ],
         "rating": [
             "9.0",
-            "169"
+            "179"
         ]
     },
     "\"Oshi no Ko\" 2nd Season": {
@@ -126,19 +400,7 @@
         ],
         "rating": [
             "7.8",
-            "170"
-        ]
-    },
-    "Kinnikuman Perfect Origin Arc": {
-        "title": "Kinnikuman Perfect Origin Arc",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Thể thao"
-        ],
-        "rating": [
-            "2.6",
-            "28"
+            "171"
         ]
     },
     "Tasuuketsu": {
@@ -153,43 +415,6 @@
             "32"
         ]
     },
-    "Na Nare Hana Nare": {
-        "title": "Na Nare Hana Nare",
-        "genre": [
-            "Anime",
-            "Thể thao"
-        ],
-        "rating": [
-            "5.2",
-            "19"
-        ]
-    },
-    "Ookami to Koushinryou: merchant meets the wise wolf": {
-        "title": "Ookami to Koushinryou: merchant meets the wise wolf",
-        "genre": [
-            "Anime",
-            "Tình cảm",
-            "Giả tưởng",
-            "Lịch sử",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "8.2",
-            "98"
-        ]
-    },
-    "Katsute Mahou Shoujo to Aku wa Tekitai Shiteita": {
-        "title": "Katsute Mahou Shoujo to Aku wa Tekitai Shiteita",
-        "genre": [
-            "Anime",
-            "Tình cảm",
-            "Siêu nhiên"
-        ],
-        "rating": [
-            "8.2",
-            "64"
-        ]
-    },
     "Isekai Shikkaku": {
         "title": "Isekai Shikkaku",
         "genre": [
@@ -200,7 +425,7 @@
         ],
         "rating": [
             "8.3",
-            "111"
+            "112"
         ]
     },
     "Mission: Yozakura Family": {
@@ -217,16 +442,16 @@
             "148"
         ]
     },
-    "Midnight Punch": {
-        "title": "Midnight Punch",
+    "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru": {
+        "title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru",
         "genre": [
-            "Anime",
+            "Hành động",
             "Hài hước",
-            "Đời thường"
+            "Phiêu lưu"
         ],
         "rating": [
-            "5.7",
-            "38"
+            "7.6",
+            "145"
         ]
     },
     "Shy": {
@@ -240,86 +465,6 @@
         "rating": [
             "5.2",
             "71"
-        ]
-    },
-    "Tower of God Season 2": {
-        "title": "Tower of God Season 2",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Bí ẩn",
-            "Giả tưởng",
-            "Drama",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "8.6",
-            "149"
-        ]
-    },
-    "Madougushi Dahliya wa Utsumukanai": {
-        "title": "Madougushi Dahliya wa Utsumukanai",
-        "genre": [
-            "Anime",
-            "Giả tưởng",
-            "Đời thường",
-            "Dị giới"
-        ],
-        "rating": [
-            "7.1",
-            "32"
-        ]
-    },
-    "Monogatari Series: Off & Monster Season": {
-        "title": "Monogatari Series: Off & Monster Season",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Bí ẩn",
-            "Siêu nhiên",
-            "Ma cà rồng"
-        ],
-        "rating": [
-            "7.7",
-            "28"
-        ]
-    },
-    "Ramen Akaneko": {
-        "title": "Ramen Akaneko",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Shounen"
-        ],
-        "rating": [
-            "7.0",
-            "12"
-        ]
-    },
-    "The Fable": {
-        "title": "The Fable",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Seinen"
-        ],
-        "rating": [
-            "6.8",
-            "35"
-        ]
-    },
-    "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream": {
-        "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Tình cảm",
-            "Giả tưởng",
-            "Đời thường"
-        ],
-        "rating": [
-            "6.7",
-            "49"
         ]
     },
     "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu": {
@@ -336,72 +481,6 @@
             "99"
         ]
     },
-    "Wistoria: Wand and Sword": {
-        "title": "Wistoria: Wand and Sword",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Học đường",
-            "Siêu nhiên",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "8.6",
-            "243"
-        ]
-    },
-    "Fairy Tail: 100 Years Quest": {
-        "title": "Fairy Tail: 100 Years Quest",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Giả tưởng",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "9.4",
-            "221"
-        ]
-    },
-    "One Piece": {
-        "title": "One Piece",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Hài hước",
-            "Phiêu lưu",
-            "Shounen",
-            "Drama"
-        ],
-        "rating": [
-            "9.0",
-            "16360"
-        ]
-    },
-    "Koi wa Futago de Warikirenai": {
-        "title": "Koi wa Futago de Warikirenai",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Tình cảm"
-        ],
-        "rating": [
-            "6.4",
-            "40"
-        ]
-    },
-    "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru": {
-        "title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru",
-        "genre": [
-            "Hành động",
-            "Hài hước",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "7.6",
-            "144"
-        ]
-    },
     "Mob kara Hajimaru Tansaku Eiyuutan": {
         "title": "Mob kara Hajimaru Tansaku Eiyuutan",
         "genre": [
@@ -416,74 +495,6 @@
             "119"
         ]
     },
-    "Synonyms: Why Nobody Remembers My World?": {
-        "title": "Synonyms: Why Nobody Remembers My World?",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Siêu nhiên",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "7.5",
-            "84"
-        ]
-    },
-    "Tensui no Sakuna-hime": {
-        "title": "Tensui no Sakuna-hime",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Siêu nhiên"
-        ],
-        "rating": [
-            "5.1",
-            "26"
-        ]
-    },
-    "Pokémon Horizons: The Series": {
-        "title": "Pokémon Horizons: The Series",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Hài hước",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "5.3",
-            "202"
-        ]
-    },
-    "Boku no Hero Academia 7th Season": {
-        "title": "Boku no Hero Academia 7th Season",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Học đường",
-            "Siêu năng lực",
-            "Shounen"
-        ],
-        "rating": [
-            "8.9",
-            "180"
-        ]
-    },
-    "Sengoku Youko": {
-        "title": "Sengoku Youko",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Giả tưởng",
-            "Shounen",
-            "Drama",
-            "Siêu nhiên",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "7.2",
-            "83"
-        ]
-    },
     "Maou Gun Saikyou No Majutsushi Wa Ningen Datta": {
         "title": "Maou Gun Saikyou No Majutsushi Wa Ningen Datta",
         "genre": [
@@ -494,22 +505,7 @@
         ],
         "rating": [
             "7.2",
-            "127"
-        ]
-    },
-    "The Elusive Samurai": {
-        "title": "The Elusive Samurai",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Lịch sử",
-            "Drama",
-            "Phiêu lưu",
-            "Samurai"
-        ],
-        "rating": [
-            "8.0",
-            "74"
+            "129"
         ]
     },
     "Kengan Ashura 3nd Season": {
@@ -559,7 +555,7 @@
         ],
         "rating": [
             "9.3",
-            "56"
+            "58"
         ]
     },
     "Bye Bye, Earth": {
@@ -589,32 +585,66 @@
             "54"
         ]
     },
-    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II": {
-        "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Giả tưởng",
-            "Học đường"
-        ],
-        "rating": [
-            "8.8",
-            "536"
-        ]
-    },
-    "2.5-jigen no Ririsa": {
-        "title": "2.5-jigen no Ririsa",
+    "Kinnikuman Perfect Origin Arc": {
+        "title": "Kinnikuman Perfect Origin Arc",
         "genre": [
             "Anime",
             "Hài hước",
-            "Harem",
-            "Học đường",
-            "Đời thường",
-            "Ecchi"
+            "Thể thao"
         ],
         "rating": [
-            "8.4",
-            "97"
+            "2.8",
+            "30"
+        ]
+    },
+    "Midnight Punch": {
+        "title": "Midnight Punch",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Đời thường"
+        ],
+        "rating": [
+            "5.8",
+            "39"
+        ]
+    },
+    "Monogatari Series: Off & Monster Season": {
+        "title": "Monogatari Series: Off & Monster Season",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Bí ẩn",
+            "Siêu nhiên",
+            "Ma cà rồng"
+        ],
+        "rating": [
+            "7.8",
+            "29"
+        ]
+    },
+    "Ramen Akaneko": {
+        "title": "Ramen Akaneko",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Shounen"
+        ],
+        "rating": [
+            "7.0",
+            "12"
+        ]
+    },
+    "The Fable": {
+        "title": "The Fable",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Seinen"
+        ],
+        "rating": [
+            "6.8",
+            "35"
         ]
     },
     "Doraemon Movie 43 Nobita Và Bản Giao Hưởng Địa Cầu": {
@@ -626,8 +656,8 @@
             "Phiêu lưu"
         ],
         "rating": [
-            "8.7",
-            "22"
+            "8.8",
+            "23"
         ]
     },
     "Henjin no Salad Bowl": {
@@ -748,7 +778,7 @@
         ],
         "rating": [
             "9.5",
-            "286"
+            "287"
         ]
     },
     "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu": {
@@ -764,68 +794,30 @@
             "410"
         ]
     },
-    "Jiisan Baasan Wakagaeru": {
-        "title": "Jiisan Baasan Wakagaeru",
+    "Ookami to Koushinryou: merchant meets the wise wolf": {
+        "title": "Ookami to Koushinryou: merchant meets the wise wolf",
         "genre": [
             "Anime",
-            "Hài hước",
             "Tình cảm",
-            "Đời thường",
+            "Giả tưởng",
+            "Lịch sử",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.2",
+            "98"
+        ]
+    },
+    "Katsute Mahou Shoujo to Aku wa Tekitai Shiteita": {
+        "title": "Katsute Mahou Shoujo to Aku wa Tekitai Shiteita",
+        "genre": [
+            "Anime",
+            "Tình cảm",
             "Siêu nhiên"
         ],
         "rating": [
-            "9.2",
-            "206"
-        ]
-    },
-    "Makeine: Too Many Losing Heroines!": {
-        "title": "Makeine: Too Many Losing Heroines!",
-        "genre": [
-            "Anime",
-            "Tình cảm",
-            "Học đường",
-            "Đời thường"
-        ],
-        "rating": [
-            "8.7",
-            "107"
-        ]
-    },
-    "Atri: My Dear Moments": {
-        "title": "Atri: My Dear Moments",
-        "genre": [
-            "Anime",
-            "Tình cảm",
-            "Drama"
-        ],
-        "rating": [
-            "7.5",
-            "41"
-        ]
-    },
-    "Senpai wa Otokonoko": {
-        "title": "Senpai wa Otokonoko",
-        "genre": [
-            "Anime",
-            "Tình cảm",
-            "Học đường"
-        ],
-        "rating": [
-            "5.6",
-            "23"
-        ]
-    },
-    "Plus-Sized Elf": {
-        "title": "Plus-Sized Elf",
-        "genre": [
-            "Anime",
-            "Tình cảm",
-            "Harem",
-            "Siêu nhiên"
-        ],
-        "rating": [
-            "4.0",
-            "56"
+            "8.2",
+            "64"
         ]
     },
     "Kimi ni Todoke 3nd Season": {
@@ -938,7 +930,21 @@
         ],
         "rating": [
             "8.3",
-            "149"
+            "150"
+        ]
+    },
+    "Jiisan Baasan Wakagaeru": {
+        "title": "Jiisan Baasan Wakagaeru",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Tình cảm",
+            "Đời thường",
+            "Siêu nhiên"
+        ],
+        "rating": [
+            "9.2",
+            "206"
         ]
     },
     "One Room, Hiatari Futsuu, Tenshi-tsuki": {
@@ -977,7 +983,7 @@
         ],
         "rating": [
             "9.7",
-            "33"
+            "34"
         ]
     },
     "Momochi-San Chi No Ayakashi Ouji": {
@@ -990,19 +996,6 @@
         "rating": [
             "4.9",
             "37"
-        ]
-    },
-    "Gekai Elise": {
-        "title": "Gekai Elise",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Tình cảm",
-            "Giả tưởng"
-        ],
-        "rating": [
-            "7.5",
-            "57"
         ]
     },
     "Kekkon Yubiwa Monogatari": {
@@ -1078,7 +1071,7 @@
         ],
         "rating": [
             "7.9",
-            "268"
+            "269"
         ]
     },
     "Seiken Gakuin no Maken Tsukai": {
@@ -1093,7 +1086,7 @@
         ],
         "rating": [
             "7.6",
-            "224"
+            "225"
         ]
     },
     "Temple": {
@@ -1255,7 +1248,7 @@
         ],
         "rating": [
             "6.8",
-            "213"
+            "214"
         ]
     },
     "Isekai Nonbiri Nouka": {
@@ -1270,7 +1263,7 @@
         ],
         "rating": [
             "9.2",
-            "630"
+            "632"
         ]
     },
     "Futoku no Guild": {
@@ -1343,21 +1336,6 @@
             "445"
         ]
     },
-    "Isekai Meikyuu de Harem wo": {
-        "title": "Isekai Meikyuu de Harem wo",
-        "genre": [
-            "Hành động",
-            "Tình cảm",
-            "Harem",
-            "Giả tưởng",
-            "Phiêu lưu",
-            "Ecchi"
-        ],
-        "rating": [
-            "7.7",
-            "407"
-        ]
-    },
     "Kaii to Otome to Kamikakushi": {
         "title": "Kaii to Otome to Kamikakushi",
         "genre": [
@@ -1421,7 +1399,7 @@
         ],
         "rating": [
             "8.0",
-            "60"
+            "61"
         ]
     },
     "Bungou Stray Dogs 5th Season": {
@@ -1585,7 +1563,7 @@
         ],
         "rating": [
             "9.0",
-            "426"
+            "427"
         ]
     },
     "Detective Conan Movie 25: Halloween no Hanayome": {
@@ -1926,6 +1904,19 @@
             "1357"
         ]
     },
+    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II": {
+        "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+        "genre": [
+            "Anime",
+            "Hành động",
+            "Giả tưởng",
+            "Học đường"
+        ],
+        "rating": [
+            "8.8",
+            "536"
+        ]
+    },
     "Kimetsu no Yaiba: Hashira Geiko-hen": {
         "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
         "genre": [
@@ -1994,6 +1985,19 @@
             "50"
         ]
     },
+    "Gekai Elise": {
+        "title": "Gekai Elise",
+        "genre": [
+            "Anime",
+            "Hài hước",
+            "Tình cảm",
+            "Giả tưởng"
+        ],
+        "rating": [
+            "7.5",
+            "57"
+        ]
+    },
     "Nanatsu no Taizai: Mokushiroku no Yonkishi": {
         "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
         "genre": [
@@ -2048,7 +2052,7 @@
         ],
         "rating": [
             "9.1",
-            "426"
+            "427"
         ]
     },
     "Shoshimin: How to Become Ordinary": {
@@ -2061,19 +2065,6 @@
         "rating": [
             "7.2",
             "49"
-        ]
-    },
-    "Giji Harem": {
-        "title": "Giji Harem",
-        "genre": [
-            "Anime",
-            "Học đường",
-            "Đời thường",
-            "Shounen"
-        ],
-        "rating": [
-            "8.7",
-            "108"
         ]
     },
     "Boukyaku Battery (TV)": {
@@ -2204,8 +2195,8 @@
             "Drama"
         ],
         "rating": [
-            "8.0",
-            "106"
+            "7.9",
+            "107"
         ]
     },
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season": {
@@ -2233,19 +2224,6 @@
         "rating": [
             "7.9",
             "183"
-        ]
-    },
-    "Dosanko Gal wa Namara Menkoi": {
-        "title": "Dosanko Gal wa Namara Menkoi",
-        "genre": [
-            "Anime",
-            "Hài hước",
-            "Tình cảm",
-            "Học đường"
-        ],
-        "rating": [
-            "8.3",
-            "177"
         ]
     },
     "Yuru Camp△ Season 3": {
@@ -2845,7 +2823,7 @@
         ],
         "rating": [
             "9.3",
-            "144"
+            "145"
         ]
     },
     "The New Gate": {
@@ -2886,7 +2864,7 @@
         ],
         "rating": [
             "7.3",
-            "128"
+            "129"
         ]
     },
     "Watashi no Oshi wa Akuyaku Reijou": {
@@ -2994,7 +2972,7 @@
         ],
         "rating": [
             "8.5",
-            "223"
+            "224"
         ]
     },
     "Seiken Densetsu: Legend of Mana - The Teardrop Crystal": {
@@ -3223,8 +3201,8 @@
             "Phiêu lưu"
         ],
         "rating": [
-            "8.7",
-            "15"
+            "8.8",
+            "16"
         ]
     },
     "Ron Kamonohashi: Thám Tử Loạn Trí": {
@@ -3713,7 +3691,7 @@
         ],
         "rating": [
             "7.4",
-            "123"
+            "124"
         ]
     },
     "Uchi no Shishou wa Shippo ga Nai": {
@@ -4088,7 +4066,7 @@
         ],
         "rating": [
             "9.5",
-            "145"
+            "146"
         ]
     },
     "Kanojo, Okarishimasu 3rd Season": {
@@ -4886,8 +4864,8 @@
             "Siêu nhiên"
         ],
         "rating": [
-            "8.4",
-            "171"
+            "8.5",
+            "173"
         ]
     },
     "Watashi no Yuri wa Oshigoto desu!": {
@@ -5272,6 +5250,17 @@
         "rating": [
             "8.8",
             "42"
+        ]
+    },
+    "Na Nare Hana Nare": {
+        "title": "Na Nare Hana Nare",
+        "genre": [
+            "Anime",
+            "Thể thao"
+        ],
+        "rating": [
+            "5.2",
+            "19"
         ]
     },
     "Captain Tsubasa Season 2: Junior Youth-hen": {
@@ -5961,7 +5950,7 @@
         ],
         "rating": [
             "9.3",
-            "1268"
+            "1269"
         ]
     },
     "Higurashi no Naku Koro ni Gou": {
@@ -6021,7 +6010,7 @@
         ],
         "rating": [
             "9.2",
-            "2271"
+            "2273"
         ]
     },
     "Pet": {
@@ -6517,8 +6506,8 @@
             "Mecha"
         ],
         "rating": [
-            "9.2",
-            "26"
+            "9.1",
+            "27"
         ]
     },
     "Shingeki no Kyojin: The Final Season Part 3": {
@@ -6756,7 +6745,7 @@
         ],
         "rating": [
             "9.2",
-            "800"
+            "801"
         ]
     },
     "Gekijouban High School Fleet ": {
@@ -6785,7 +6774,7 @@
         ],
         "rating": [
             "9.4",
-            "478"
+            "479"
         ]
     },
     "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga": {
@@ -6864,7 +6853,7 @@
         ],
         "rating": [
             "8.9",
-            "273"
+            "274"
         ]
     },
     "Delicious in Dungeon": {
@@ -6906,7 +6895,7 @@
         ],
         "rating": [
             "6.9",
-            "55"
+            "56"
         ]
     },
     "Under Ninja": {
@@ -6969,7 +6958,7 @@
         ],
         "rating": [
             "9.0",
-            "648"
+            "649"
         ]
     },
     "Otonari ni Ginga": {
@@ -7190,19 +7179,6 @@
         "rating": [
             "6.5",
             "80"
-        ]
-    },
-    "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd": {
-        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Tình cảm",
-            "Siêu nhiên"
-        ],
-        "rating": [
-            "7.9",
-            "136"
         ]
     },
     "The Boy and the Heron": {
@@ -7541,23 +7517,6 @@
         "rating": [
             "9.0",
             "100"
-        ]
-    },
-    "Strike the Blood V": {
-        "title": "Strike the Blood V",
-        "genre": [
-            "Anime",
-            "Hành động",
-            "Hài hước",
-            "Tình cảm",
-            "Harem",
-            "Học đường",
-            "Siêu nhiên",
-            "Ma cà rồng"
-        ],
-        "rating": [
-            "8.5",
-            "125"
         ]
     },
     "Vanitas no Carte 2nd Season": {
@@ -8672,6 +8631,152 @@
             "221"
         ]
     },
+    "Thôn Phệ Tinh Không": {
+        "title": "Thôn Phệ Tinh Không",
+        "genre": [
+            "CN Animation",
+            "Huyền ảo",
+            "Khoa huyễn"
+        ],
+        "rating": [
+            "9.7",
+            "4518"
+        ]
+    },
+    "Nghịch Thiên Chí Tôn": {
+        "title": "Nghịch Thiên Chí Tôn",
+        "genre": [
+            "CN Animation",
+            "Tiên hiệp",
+            "Trùng sinh"
+        ],
+        "rating": [
+            "7.5",
+            "584"
+        ]
+    },
+    "Vô Thượng Thần Đế": {
+        "title": "Vô Thượng Thần Đế",
+        "genre": [
+            "CN Animation",
+            "Tiên hiệp",
+            "Trùng sinh",
+            "Huyền ảo"
+        ],
+        "rating": [
+            "8.0",
+            "749"
+        ]
+    },
+    "Độc Bộ Tiêu Dao": {
+        "title": "Độc Bộ Tiêu Dao",
+        "genre": [
+            "CN Animation",
+            "Kiếm hiệp",
+            "Huyền ảo",
+            "Xuyên không",
+            "Trùng sinh"
+        ],
+        "rating": [
+            "7.4",
+            "664"
+        ]
+    },
+    "Võ Thần Chúa Tể": {
+        "title": "Võ Thần Chúa Tể",
+        "genre": [
+            "CN Animation",
+            "Tiên hiệp",
+            "Xuyên không",
+            "Trùng sinh",
+            "Huyền ảo"
+        ],
+        "rating": [
+            "8.5",
+            "1121"
+        ]
+    },
+    "Tiên Võ Truyện": {
+        "title": "Tiên Võ Truyện",
+        "genre": [
+            "CN Animation",
+            "Tiên hiệp",
+            "Huyền ảo"
+        ],
+        "rating": [
+            "8.4",
+            "435"
+        ]
+    },
+    "Tiên Nghịch": {
+        "title": "Tiên Nghịch",
+        "genre": [
+            "CN Animation",
+            "Tiên hiệp",
+            "Huyền ảo"
+        ],
+        "rating": [
+            "9.3",
+            "1233"
+        ]
+    },
+    "Thiếu Niên Bạch Mã Túy Xuân Phong Phần 2": {
+        "title": "Thiếu Niên Bạch Mã Túy Xuân Phong Phần 2",
+        "genre": [
+            "CN Animation",
+            "Kiếm hiệp"
+        ],
+        "rating": [
+            "NaN",
+            "3"
+        ]
+    },
+    " Thiếu Niên Bạch Mã Túy Xuân Phong": {
+        "title": " Thiếu Niên Bạch Mã Túy Xuân Phong",
+        "genre": [
+            "CN Animation"
+        ],
+        "rating": [
+            "NaN",
+            "2"
+        ]
+    },
+    "Đấu Phá Thương Khung Phần 5": {
+        "title": "Đấu Phá Thương Khung Phần 5",
+        "genre": [
+            "CN Animation",
+            "Huyền ảo"
+        ],
+        "rating": [
+            "9.0",
+            "2454"
+        ]
+    },
+    "Bách Luyện Thành Thần": {
+        "title": "Bách Luyện Thành Thần",
+        "genre": [
+            "CN Animation",
+            "Kiếm hiệp",
+            "Huyền ảo",
+            "Dị giới"
+        ],
+        "rating": [
+            "8.4",
+            "649"
+        ]
+    },
+    "Luyện Khí Mười Vạn Năm": {
+        "title": "Luyện Khí Mười Vạn Năm",
+        "genre": [
+            "CN Animation",
+            "Tiên hiệp",
+            "Huyền ảo"
+        ],
+        "rating": [
+            "8.5",
+            "699"
+        ]
+    },
     "Vạn Giới Độc Tôn": {
         "title": "Vạn Giới Độc Tôn",
         "genre": [
@@ -8707,7 +8812,7 @@
         ],
         "rating": [
             "9.4",
-            "1988"
+            "1993"
         ]
     },
     "Thần Mộ": {
@@ -8720,7 +8825,7 @@
         ],
         "rating": [
             "9.2",
-            "542"
+            "547"
         ]
     },
     "Đấu La Đại Lục 2 Tuyệt Thế Đường Môn": {
@@ -8735,19 +8840,6 @@
             "724"
         ]
     },
-    "Vô Thượng Thần Đế": {
-        "title": "Vô Thượng Thần Đế",
-        "genre": [
-            "CN Animation",
-            "Tiên hiệp",
-            "Trùng sinh",
-            "Huyền ảo"
-        ],
-        "rating": [
-            "8.0",
-            "749"
-        ]
-    },
     "Vĩnh Sinh ": {
         "title": "Vĩnh Sinh ",
         "genre": [
@@ -8759,18 +8851,6 @@
         "rating": [
             "9.1",
             "619"
-        ]
-    },
-    "Nghịch Thiên Chí Tôn": {
-        "title": "Nghịch Thiên Chí Tôn",
-        "genre": [
-            "CN Animation",
-            "Tiên hiệp",
-            "Trùng sinh"
-        ],
-        "rating": [
-            "7.5",
-            "584"
         ]
     },
     "Thế Giới Hoàn Mỹ": {
@@ -8808,21 +8888,7 @@
         ],
         "rating": [
             "9.4",
-            "779"
-        ]
-    },
-    "Độc Bộ Tiêu Dao": {
-        "title": "Độc Bộ Tiêu Dao",
-        "genre": [
-            "CN Animation",
-            "Kiếm hiệp",
-            "Huyền ảo",
-            "Xuyên không",
-            "Trùng sinh"
-        ],
-        "rating": [
-            "7.4",
-            "664"
+            "780"
         ]
     },
     "Trảm Thần": {
@@ -8832,7 +8898,7 @@
         ],
         "rating": [
             "9.4",
-            "253"
+            "260"
         ]
     },
     "Kiếm Lai": {
@@ -8844,33 +8910,7 @@
         ],
         "rating": [
             "9.4",
-            "416"
-        ]
-    },
-    "Luyện Khí Mười Vạn Năm": {
-        "title": "Luyện Khí Mười Vạn Năm",
-        "genre": [
-            "CN Animation",
-            "Tiên hiệp",
-            "Huyền ảo"
-        ],
-        "rating": [
-            "8.5",
-            "699"
-        ]
-    },
-    "Võ Thần Chúa Tể": {
-        "title": "Võ Thần Chúa Tể",
-        "genre": [
-            "CN Animation",
-            "Tiên hiệp",
-            "Xuyên không",
-            "Trùng sinh",
-            "Huyền ảo"
-        ],
-        "rating": [
-            "8.5",
-            "1121"
+            "418"
         ]
     },
     "Nhất Niệm Vĩnh Hằng": {
@@ -8882,7 +8922,7 @@
         ],
         "rating": [
             "9.0",
-            "2266"
+            "2267"
         ]
     },
     "Già Thiên": {
@@ -8895,54 +8935,7 @@
         ],
         "rating": [
             "8.7",
-            "1354"
-        ]
-    },
-    "Thôn Phệ Tinh Không": {
-        "title": "Thôn Phệ Tinh Không",
-        "genre": [
-            "CN Animation",
-            "Huyền ảo",
-            "Khoa huyễn"
-        ],
-        "rating": [
-            "9.7",
-            "4518"
-        ]
-    },
-    "Tiên Nghịch": {
-        "title": "Tiên Nghịch",
-        "genre": [
-            "CN Animation",
-            "Tiên hiệp",
-            "Huyền ảo"
-        ],
-        "rating": [
-            "9.3",
-            "1232"
-        ]
-    },
-    "Tiên Võ Truyện": {
-        "title": "Tiên Võ Truyện",
-        "genre": [
-            "CN Animation",
-            "Tiên hiệp",
-            "Huyền ảo"
-        ],
-        "rating": [
-            "8.4",
-            "435"
-        ]
-    },
-    "Đấu Phá Thương Khung Phần 5": {
-        "title": "Đấu Phá Thương Khung Phần 5",
-        "genre": [
-            "CN Animation",
-            "Huyền ảo"
-        ],
-        "rating": [
-            "9.0",
-            "2450"
+            "1355"
         ]
     },
     "Thế Giới Hoàn Mỹ OVA Hỏa chi Hôi Tẫn": {
@@ -8955,19 +8948,6 @@
         "rating": [
             "9.2",
             "73"
-        ]
-    },
-    "Bách Luyện Thành Thần": {
-        "title": "Bách Luyện Thành Thần",
-        "genre": [
-            "CN Animation",
-            "Kiếm hiệp",
-            "Huyền ảo",
-            "Dị giới"
-        ],
-        "rating": [
-            "8.4",
-            "649"
         ]
     },
     "Toàn Chức Pháp Sư OVA Lời uỷ thác thần bí": {
@@ -8990,8 +8970,8 @@
             "Tiên hiệp"
         ],
         "rating": [
-            "8.9",
-            "198"
+            "9.0",
+            "200"
         ]
     },
     "Yêu Thần Ký": {
@@ -9003,7 +8983,7 @@
         ],
         "rating": [
             "8.9",
-            "3863"
+            "3864"
         ]
     },
     "Huyễn Sủng Sư": {
@@ -9157,8 +9137,8 @@
             "Tiên hiệp"
         ],
         "rating": [
-            "9.1",
-            "262"
+            "9.2",
+            "263"
         ]
     },
     "Chân Dương Võ Thần": {
@@ -9410,19 +9390,6 @@
             "200"
         ]
     },
-    "Tinh Thần Biến Phần 4": {
-        "title": "Tinh Thần Biến Phần 4",
-        "genre": [
-            "CN Animation",
-            "Tiên hiệp",
-            "Kiếm hiệp",
-            "Huyền ảo"
-        ],
-        "rating": [
-            "9.6",
-            "543"
-        ]
-    },
     "Hồi Minh: Phong Hỏa Tam Nguyệt": {
         "title": "Hồi Minh: Phong Hỏa Tam Nguyệt",
         "genre": [
@@ -9444,7 +9411,7 @@
         ],
         "rating": [
             "8.7",
-            "358"
+            "359"
         ]
     },
     "Kage no Jitsuryokusha ni Naritakute! 2nd Season": {
@@ -9619,7 +9586,7 @@
         ],
         "rating": [
             "9.4",
-            "512"
+            "513"
         ]
     },
     "Phản Diện Tái Sinh": {
@@ -9896,7 +9863,7 @@
         ],
         "rating": [
             "9.1",
-            "281"
+            "282"
         ]
     },
     "Saihate no Paladin: Tetsusabi no Yama no Ou": {
@@ -10279,7 +10246,7 @@
         ],
         "rating": [
             "9.7",
-            "2383"
+            "2384"
         ]
     },
     "Gối Đao Lên Hát": {
@@ -10330,7 +10297,7 @@
         ],
         "rating": [
             "8.0",
-            "148"
+            "149"
         ]
     },
     "Inu ni Nattara Suki na Hito ni Hirowareta": {
@@ -10344,6 +10311,21 @@
         "rating": [
             "6.2",
             "177"
+        ]
+    },
+    "Isekai Meikyuu de Harem wo": {
+        "title": "Isekai Meikyuu de Harem wo",
+        "genre": [
+            "Hành động",
+            "Tình cảm",
+            "Harem",
+            "Giả tưởng",
+            "Phiêu lưu",
+            "Ecchi"
+        ],
+        "rating": [
+            "7.7",
+            "407"
         ]
     },
     "Trinity Seven Movie 2: Tenkuu Toshokan to Shinku no Maou": {

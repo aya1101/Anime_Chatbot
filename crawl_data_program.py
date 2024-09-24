@@ -38,6 +38,12 @@ def fetch_movie_genre(soup):
     clean_genre_list = [g.strip() for g in genre_list if len(g.strip()) > 0][1:]
     return clean_genre_list
 
+def fetch_movie_episodes(soup):
+    ep = soup.find('div', {'class':'list-item-episode scroll-bar'}).text if soup.find('div', {'class':'list-item-episode scroll-bar'}) else 'N/A'
+    ep_list = ep.split()
+    return len(ep_list)
+
+
 def fetch_movie_rating(soup):
     rating = soup.find('div', {"class": "score"}).text if soup.find('div', {"class": "score"}) else 'N/A'
     if rating != 'N/A':

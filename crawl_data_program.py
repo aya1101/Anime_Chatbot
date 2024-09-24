@@ -1,3 +1,5 @@
+from platform import release
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -47,17 +49,35 @@ def fetch_movie_rating(soup):
     else:
         return rating
 
+def fetch_movie_status(soup):
+    status = soup.find('div', {"class": "status"})
+    if status:
+        status = status.find_all('div')[-1].text.strip()
+    else:
+        status = 'Undefined'
+    return status
+
+def fetch_movie_release_year(soup):
+    release_year = soup.find('div', {"class": "update_time"})
+    if release_year:
+        release_year = release_year.find_all('div')[-1].text.strip()
+    else:
+        release_year = 'N/A'
+    return release_year
 
 def fetch_movie_information(soup):
     title = fetch_movie_title(soup)
     genre = fetch_movie_genre(soup)
     rating = fetch_movie_rating(soup)
+    status = fetch_movie_status(soup)
+    release_year = fetch_movie_release_year(soup)
     movie = {
         'title': title,
         'genre': genre,
-        'rating': rating
+        'rating': rating,
+        'status': status,
+        'release year': release_year
     }
-
     return movie
 
 
@@ -120,7 +140,7 @@ def json_to_csv(json_filename, csv_filename):
 
     df.to_csv(csv_filename + '.csv', encoding='utf-8', index=False)
 
-all_soups = fetch_pages(1, 200)
+all_soups = fetch_pages(1, 150)
 
 all_links = []
 for soup in all_soups:

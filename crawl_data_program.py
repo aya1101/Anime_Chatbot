@@ -32,6 +32,10 @@ def fetch_movie_title(soup):
     title = soup.find('h1', {"class": "heading_movie"}).text if soup.find('h1', {"class": "heading_movie"}) else 'N/A'
     return title
 
+def fetch_movie_description(soup):
+    discription = soup.find('div', {"class": "desc ah-frame-bg"}).find('p').text if soup.find('div', {"class": "desc ah-frame-bg"}) and soup.find('div', {"class": "desc ah-frame-bg"}).find('p') else 'N/A'
+    return discription
+
 def fetch_movie_genre(soup):
     genre = soup.find('div', {"class": "list_cate"}).text if soup.find('div', {"class": "list_cate"}) else 'N/A'
     genre_list = genre.splitlines()
@@ -75,6 +79,7 @@ def fetch_movie_information(soup):
     title = fetch_movie_title(soup)
     genre = fetch_movie_genre(soup)
     rating = fetch_movie_rating(soup)
+    description = fetch_movie_description(soup)
     status = fetch_movie_status(soup)
     episodes = fetch_movie_episodes(soup)
     release_year = fetch_movie_release_year(soup)
@@ -84,7 +89,8 @@ def fetch_movie_information(soup):
         'rating': rating,
         'status': status,
         'episodes': episodes,
-        'release year': release_year
+        'release year': release_year,
+        'description': description
     }
     return movie
 
@@ -148,7 +154,7 @@ def json_to_csv(json_filename, csv_filename):
 
     df.to_csv(csv_filename + '.csv', encoding='utf-8', index=False)
 
-all_soups = fetch_pages(1, 150)
+all_soups = fetch_pages(1, 2)
 
 all_links = []
 for soup in all_soups:
@@ -158,3 +164,4 @@ for soup in all_soups:
 all_movies = fetch_all_movies(all_links)
 save_json(all_movies, 'data_movies')
 json_to_csv('data_movies', 'movies_data')
+

@@ -27,8 +27,12 @@ def save_soup(soup, file_name):
         f.write(str(soup))
 
 def fetch_movie_title(soup):
-    title = soup.find('h1', {"class": "heading_movie"}).text if soup.find('h1', {"class": "heading_movie"}) else 'N/A'
+    title = soup.find('h1', {"class": "heading_movie"}).text if soup.find('h1', {"class": "heading_movie"}) and soup.find('div', {"class": "desc ah-frame-bg"}).find('p') else 'N/A'
     return title
+
+def fetch_movie_description(soup):
+    discription = soup.find('div', {"class": "desc ah-frame-bg"}).find('p').text if soup.find('div', {"class": "desc ah-frame-bg"}) else 'N/A'
+    return discription
 
 def fetch_movie_genre(soup):
     genre = soup.find('div', {"class": "list_cate"}).text if soup.find('div', {"class": "list_cate"}) else 'N/A'
@@ -52,10 +56,12 @@ def fetch_movie_information(soup):
     title = fetch_movie_title(soup)
     genre = fetch_movie_genre(soup)
     rating = fetch_movie_rating(soup)
+    description = fetch_movie_description(soup)
     movie = {
         'title': title,
         'genre': genre,
-        'rating': rating
+        'rating': rating,
+        'description': description
     }
 
     return movie
@@ -130,3 +136,4 @@ for soup in all_soups:
 all_movies = fetch_all_movies(all_links)
 save_json(all_movies, 'data_movies')
 json_to_csv('data_movies', 'movies_data')
+

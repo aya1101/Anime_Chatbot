@@ -76,12 +76,14 @@ def fetch_movie_information(soup):
     genre = fetch_movie_genre(soup)
     rating = fetch_movie_rating(soup)
     status = fetch_movie_status(soup)
+    episodes = fetch_movie_episodes(soup)
     release_year = fetch_movie_release_year(soup)
     movie = {
         'title': title,
         'genre': genre,
         'rating': rating,
         'status': status,
+        'episodes': episodes,
         'release year': release_year
     }
     return movie

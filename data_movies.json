@@ -1,4 +1,35 @@
 {
+    "Ookami to Koushinryou: merchant meets the wise wolf": {
+        "title": "Ookami to Koushinryou: merchant meets the wise wolf",
+        "genre": [
+            "Anime",
+            "Tình cảm",
+            "Giả tưởng",
+            "Lịch sử",
+            "Phiêu lưu"
+        ],
+        "rating": [
+            "8.2",
+            "98"
+        ],
+        "status": "Đang tiến hành",
+        "episodes": 25,
+        "release year": "2024"
+    },
+    "Na Nare Hana Nare": {
+        "title": "Na Nare Hana Nare",
+        "genre": [
+            "Anime",
+            "Thể thao"
+        ],
+        "rating": [
+            "5.2",
+            "19"
+        ],
+        "status": "Đang tiến hành",
+        "episodes": 11,
+        "release year": "2024"
+    },
     "Kinnikuman Perfect Origin Arc": {
         "title": "Kinnikuman Perfect Origin Arc",
         "genre": [
@@ -11,6 +42,7 @@
             "31"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "The Fable": {
@@ -25,6 +57,7 @@
             "35"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2024"
     },
     "Mission: Yozakura Family": {
@@ -41,6 +74,7 @@
             "148"
         ],
         "status": "Đang tiến hành",
+        "episodes": 25,
         "release year": "2024"
     },
     "Monogatari Series: Off & Monster Season": {
@@ -57,6 +91,7 @@
             "29"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Shy": {
@@ -72,6 +107,7 @@
             "71"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Midnight Punch": {
@@ -86,6 +122,7 @@
             "39"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Tower of God Season 2": {
@@ -103,6 +140,7 @@
             "150"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Fairy Tail: 100 Years Quest": {
@@ -118,6 +156,7 @@
             "227"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Makeine: Too Many Losing Heroines!": {
@@ -133,6 +172,7 @@
             "110"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "The Elusive Samurai": {
@@ -150,6 +190,7 @@
             "74"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Madougushi Dahliya wa Utsumukanai": {
@@ -162,9 +203,10 @@
         ],
         "rating": [
             "7.2",
-            "33"
+            "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Plus-Sized Elf": {
@@ -176,10 +218,11 @@
             "Siêu nhiên"
         ],
         "rating": [
-            "4.1",
-            "58"
+            "4.2",
+            "59"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream": {
@@ -196,6 +239,7 @@
             "49"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Atri: My Dear Moments": {
@@ -210,6 +254,7 @@
             "41"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Strike the Blood V": {
@@ -229,6 +274,7 @@
             "127"
         ],
         "status": "Hoàn thành",
+        "episodes": 4,
         "release year": "2022"
     },
     "Sengoku Youko": {
@@ -247,6 +293,7 @@
             "83"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2024"
     },
     "Wistoria: Wand and Sword": {
@@ -259,10 +306,11 @@
             "Phiêu lưu"
         ],
         "rating": [
-            "8.5",
-            "249"
+            "8.6",
+            "250"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "One Piece": {
@@ -280,6 +328,7 @@
             "16361"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1130,
         "release year": "1999"
     },
     "Senpai wa Otokonoko": {
@@ -294,6 +343,7 @@
             "24"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Koi wa Futago de Warikirenai": {
@@ -308,6 +358,7 @@
             "40"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Synonyms: Why Nobody Remembers My World?": {
@@ -323,6 +374,7 @@
             "85"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Tensui no Sakuna-hime": {
@@ -337,6 +389,7 @@
             "26"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Pokémon Horizons: The Series": {
@@ -352,6 +405,7 @@
             "202"
         ],
         "status": "Đang tiến hành",
+        "episodes": 66,
         "release year": "2023"
     },
     "Giji Harem": {
@@ -367,6 +421,7 @@
             "119"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Boku no Hero Academia 7th Season": {
@@ -383,6 +438,7 @@
             "182"
         ],
         "status": "Đang tiến hành",
+        "episodes": 18,
         "release year": "2024"
     },
     "2.5-jigen no Ririsa": {
@@ -400,6 +456,7 @@
             "97"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "NieR:Automata Ver1.1a": {
@@ -415,6 +472,7 @@
             "194"
         ],
         "status": "Đang tiến hành",
+        "episodes": 23,
         "release year": "2023"
     },
     "Shikanoko Nokonoko Koshitantan": {
@@ -429,20 +487,22 @@
             "124"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
-    "Tasogare Outfocus": {
-        "title": "Tasogare Outfocus",
+    "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru": {
+        "title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru",
         "genre": [
-            "Anime",
-            "Học đường",
-            "Đời thường"
+            "Hành động",
+            "Hài hước",
+            "Phiêu lưu"
         ],
         "rating": [
-            "3.3",
-            "122"
+            "7.6",
+            "148"
         ],
-        "status": "Hoàn thành",
+        "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Quality Assurance in Another World": {
@@ -459,20 +519,7 @@
             "50"
         ],
         "status": "Hoàn thành",
-        "release year": "2024"
-    },
-    "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru": {
-        "title": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru",
-        "genre": [
-            "Hành động",
-            "Hài hước",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "7.6",
-            "148"
-        ],
-        "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Tensei shitara Slime Datta Ken 3rd Season": {
@@ -487,9 +534,10 @@
         ],
         "rating": [
             "8.9",
-            "465"
+            "466"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2024"
     },
     "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made": {
@@ -506,6 +554,7 @@
             "217"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai": {
@@ -518,9 +567,10 @@
         ],
         "rating": [
             "8.3",
-            "204"
+            "206"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Tasuuketsu": {
@@ -535,6 +585,7 @@
             "32"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2024"
     },
     "Isekai Shikkaku": {
@@ -550,6 +601,7 @@
             "112"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu": {
@@ -563,9 +615,10 @@
         ],
         "rating": [
             "7.3",
-            "99"
+            "100"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Mob kara Hajimaru Tansaku Eiyuutan": {
@@ -578,10 +631,11 @@
             "Phiêu lưu"
         ],
         "rating": [
-            "7.3",
-            "120"
+            "7.4",
+            "121"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Maou Gun Saikyou No Majutsushi Wa Ningen Datta": {
@@ -597,6 +651,7 @@
             "129"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Kengan Ashura 3nd Season": {
@@ -611,6 +666,7 @@
             "52"
         ],
         "status": "Hoàn thành",
+        "episodes": 28,
         "release year": "2023"
     },
     "Kim Ngô Vệ": {
@@ -626,6 +682,7 @@
             "46"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2024"
     },
     "Suicide Squad ISEKAI": {
@@ -640,6 +697,7 @@
             "80"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2024"
     },
     "SPY×FAMILY CODE: White": {
@@ -655,6 +713,7 @@
             "58"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Bye Bye, Earth": {
@@ -670,6 +729,7 @@
             "16"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II": {
@@ -686,6 +746,7 @@
             "54"
         ],
         "status": "Đang tiến hành",
+        "episodes": 4,
         "release year": "2024"
     },
     "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san": {
@@ -701,6 +762,7 @@
             "380"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Ramen Akaneko": {
@@ -715,6 +777,7 @@
             "12"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2024"
     },
     "Doraemon Movie 43 Nobita Và Bản Giao Hưởng Địa Cầu": {
@@ -726,10 +789,11 @@
             "Phiêu lưu"
         ],
         "rating": [
-            "8.8",
-            "24"
+            "8.9",
+            "25"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Henjin no Salad Bowl": {
@@ -744,6 +808,7 @@
             "51"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Shinigami Bocchan to Kuro Maid 3rd Season": {
@@ -759,6 +824,7 @@
             "83"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life": {
@@ -776,6 +842,7 @@
             "230"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Shuumatsu Train Doko E Iku": {
@@ -792,6 +859,7 @@
             "64"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Tsuki ga Michibiku Isekai Douchuu 2nd Season": {
@@ -809,6 +877,7 @@
             "559"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2024"
     },
     "Yoru no Kurage wa Oyogenai": {
@@ -823,6 +892,7 @@
             "65"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Maou No Ore Ga Dorei Elf Wo Yome Ni Shitanda Ga, Dou Medereba Ii?": {
@@ -838,6 +908,7 @@
             "254"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Astro Note": {
@@ -853,6 +924,7 @@
             "43"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Kono Subarashii Sekai ni Shukufuku wo! 3": {
@@ -869,6 +941,7 @@
             "287"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu": {
@@ -884,6 +957,7 @@
             "410"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Gimai Seikatsu": {
@@ -897,22 +971,7 @@
             "181"
         ],
         "status": "Hoàn thành",
-        "release year": "2024"
-    },
-    "Ookami to Koushinryou: merchant meets the wise wolf": {
-        "title": "Ookami to Koushinryou: merchant meets the wise wolf",
-        "genre": [
-            "Anime",
-            "Tình cảm",
-            "Giả tưởng",
-            "Lịch sử",
-            "Phiêu lưu"
-        ],
-        "rating": [
-            "8.2",
-            "98"
-        ],
-        "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Katsute Mahou Shoujo to Aku wa Tekitai Shiteita": {
@@ -927,6 +986,7 @@
             "64"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Kimi ni Todoke 3nd Season": {
@@ -943,6 +1003,7 @@
             "29"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2024"
     },
     "Vampire Dormitory": {
@@ -958,6 +1019,7 @@
             "32"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Mushoku Tensei II: Isekai Ittara Honki Dasu (Ss3)": {
@@ -976,6 +1038,7 @@
             "681"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2023"
     },
     "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita": {
@@ -991,6 +1054,7 @@
             "194"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Mahouka Koukou no Rettousei 3rd Season": {
@@ -1007,6 +1071,7 @@
             "176"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Hananoi-kun to Koi no Yamai": {
@@ -1022,6 +1087,7 @@
             "72"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Date A Live V": {
@@ -1040,6 +1106,7 @@
             "188"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Unnamed Memory": {
@@ -1056,6 +1123,7 @@
             "150"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Jiisan Baasan Wakagaeru": {
@@ -1072,6 +1140,7 @@
             "206"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2024"
     },
     "One Room, Hiatari Futsuu, Tenshi-tsuki": {
@@ -1087,6 +1156,7 @@
             "116"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Suki demo Kirai na Amanojaku My Oni Girl": {
@@ -1101,6 +1171,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai": {
@@ -1117,6 +1188,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Momochi-San Chi No Ayakashi Ouji": {
@@ -1131,6 +1203,7 @@
             "37"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Kekkon Yubiwa Monogatari": {
@@ -1149,6 +1222,7 @@
             "154"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Nozomanu Fushi no Boukensha": {
@@ -1166,6 +1240,7 @@
             "382"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Mato Seihei no Slave": {
@@ -1184,6 +1259,7 @@
             "260"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Kanojo mo Kanojo Season 2": {
@@ -1201,6 +1277,7 @@
             "111"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Kimi No Koto Ga Dai Dai Dai Dai Daisuki Na 100-ri No Kanojo": {
@@ -1217,6 +1294,7 @@
             "269"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Seiken Gakuin no Maken Tsukai": {
@@ -1234,6 +1312,7 @@
             "225"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Temple": {
@@ -1250,6 +1329,7 @@
             "175"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Eiyuu Kyoushitsu": {
@@ -1269,6 +1349,7 @@
             "183"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Masamune-kun no Revenge 2nd Season": {
@@ -1286,6 +1367,7 @@
             "269"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Gotoubun no Hanayome ∬": {
@@ -1302,6 +1384,7 @@
             "1419"
         ],
         "status": "Hoàn thành",
+        "episodes": 14,
         "release year": "2021"
     },
     "Megami no Café Terrace": {
@@ -1319,6 +1402,7 @@
             "233"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Rokudou no Onna-tachi": {
@@ -1336,6 +1420,7 @@
             "88"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Isekai Shoukan wa Nidome desu": {
@@ -1353,6 +1438,7 @@
             "221"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Yuusha ga Shinda!": {
@@ -1370,6 +1456,7 @@
             "177"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Isekai wa Smartphone to Tomo ni. 2": {
@@ -1386,6 +1473,7 @@
             "381"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito": {
@@ -1403,6 +1491,7 @@
             "384"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei (Ss2)": {
@@ -1418,6 +1507,7 @@
             "214"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Isekai Nonbiri Nouka": {
@@ -1435,6 +1525,7 @@
             "632"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Futoku no Guild": {
@@ -1452,6 +1543,7 @@
             "130"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "5-toubun no Hanayome Movie": {
@@ -1468,6 +1560,7 @@
             "285"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Kakkou no Iinazuke": {
@@ -1483,6 +1576,7 @@
             "479"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2022"
     },
     "Arifureta Shokugyou de Sekai Saikyou 2nd Season": {
@@ -1499,6 +1593,7 @@
             "1052"
         ],
         "status": "Hoàn thành",
+        "episodes": 20,
         "release year": "2022"
     },
     "Kuro no Shoukanshi": {
@@ -1515,6 +1610,7 @@
             "445"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Kaii to Otome to Kamikakushi": {
@@ -1529,6 +1625,7 @@
             "47"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Majo to Yajuu": {
@@ -1545,6 +1642,7 @@
             "115"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Kusuriya no Hitorigoto": {
@@ -1560,6 +1658,7 @@
             "367"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Dark Gathering": {
@@ -1576,6 +1675,7 @@
             "304"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2023"
     },
     "Spy Kyoushitsu 2nd Season": {
@@ -1591,6 +1691,7 @@
             "61"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Bungou Stray Dogs 5th Season": {
@@ -1608,6 +1709,7 @@
             "141"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2023"
     },
     "Yakitori: Soldiers of Misfortune": {
@@ -1623,6 +1725,7 @@
             "8"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2023"
     },
     "Kagami no Kojou": {
@@ -1638,6 +1741,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Thám Tử Lừng Danh Conan: Câu Chuyện Về Haibara Ai Chuyến Tàu Sắt Bí Ẩn Màu Đen": {
@@ -1653,6 +1757,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Princess Principal: Crown Handler Movie": {
@@ -1668,6 +1773,7 @@
             "23"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Spy Kyoushitsu": {
@@ -1684,6 +1790,7 @@
             "163"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Bungou Stray Dogs 4th Season": {
@@ -1700,6 +1807,7 @@
             "191"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Mononogatari": {
@@ -1715,6 +1823,7 @@
             "143"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Kyokou Suiri Season 2": {
@@ -1731,6 +1840,7 @@
             "239"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Revenger": {
@@ -1746,6 +1856,7 @@
             "67"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Meitantei Conan: Hannin no Hanzawa-san": {
@@ -1761,6 +1872,7 @@
             "55"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Long Tộc": {
@@ -1779,6 +1891,7 @@
             "427"
         ],
         "status": "Hoàn thành",
+        "episodes": 17,
         "release year": "2022"
     },
     "Detective Conan Movie 25: Halloween no Hanayome": {
@@ -1795,6 +1908,7 @@
             "95"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Yojouhan Time Machine Blues": {
@@ -1811,6 +1925,7 @@
             "33"
         ],
         "status": "Đang tiến hành",
+        "episodes": 2,
         "release year": "2022"
     },
     "Fuuto Tantei": {
@@ -1827,6 +1942,7 @@
             "224"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Made in Abyss: Retsujitsu no Ougonkyou": {
@@ -1843,6 +1959,7 @@
             "195"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Tomodachi Game": {
@@ -1859,6 +1976,7 @@
             "415"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Lord El-Melloi II Sei no Jikenbo -Rail Zeppelin Grace Note- Tokubetsu-hen": {
@@ -1874,6 +1992,7 @@
             "83"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Detective Conan Movie 24: Hiiro no Dangan": {
@@ -1892,6 +2011,7 @@
             "117"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Detective Conan Movie 23: The Fist of Blue Sapphire": {
@@ -1909,6 +2029,7 @@
             "45"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Kino no Tabi: The Beautiful World - The Animated Series": {
@@ -1925,6 +2046,7 @@
             "200"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Higurashi no Naku Koro ni Sotsu": {
@@ -1942,6 +2064,7 @@
             "78"
         ],
         "status": "Hoàn thành",
+        "episodes": 15,
         "release year": "2021"
     },
     "Vinland Saga Season 2": {
@@ -1958,6 +2081,7 @@
             "252"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Berserk: Ougon Jidai-hen - Memorial Edition": {
@@ -1975,6 +2099,7 @@
             "109"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Attack On Titan - Shingeki No Kyojin": {
@@ -1991,9 +2116,10 @@
         ],
         "rating": [
             "9.3",
-            "1050"
+            "1051"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2013"
     },
     "Attack on Titan SS2": {
@@ -2011,6 +2137,7 @@
             "1063"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Air Movie": {
@@ -2027,6 +2154,7 @@
             "48"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2005"
     },
     "NANA": {
@@ -2046,6 +2174,7 @@
             "28"
         ],
         "status": "Hoàn thành",
+        "episodes": 47,
         "release year": "2006"
     },
     "Moshidora": {
@@ -2061,6 +2190,7 @@
             "17"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2010"
     },
     "Fate/Zero": {
@@ -2078,6 +2208,7 @@
             "464"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2011"
     },
     "Kidou Senshi Gundam 00": {
@@ -2095,6 +2226,7 @@
             "46"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2007"
     },
     "Elfen Lied": {
@@ -2114,6 +2246,7 @@
             "233"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2004"
     },
     "Zetsuen no Tempest": {
@@ -2131,6 +2264,7 @@
             "413"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2013"
     },
     "Gokukoku No Brynhildr": {
@@ -2147,6 +2281,7 @@
             "301"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2014"
     },
     "Akame ga Kill!": {
@@ -2163,6 +2298,7 @@
             "1357"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2014"
     },
     "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II": {
@@ -2178,6 +2314,7 @@
             "536"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Kimetsu no Yaiba: Hashira Geiko-hen": {
@@ -2194,6 +2331,7 @@
             "466"
         ],
         "status": "Đang tiến hành",
+        "episodes": 8,
         "release year": "2024"
     },
     "Sentai Daishikkaku": {
@@ -2209,6 +2347,7 @@
             "102"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Re:Monster": {
@@ -2224,6 +2363,7 @@
             "315"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Shaman King: Flowers": {
@@ -2241,6 +2381,7 @@
             "40"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Thời Đại Vũ Trụ Lớn": {
@@ -2256,6 +2397,7 @@
             "50"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Gekai Elise": {
@@ -2271,6 +2413,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Nanatsu no Taizai: Mokushiroku no Yonkishi": {
@@ -2287,6 +2430,7 @@
             "129"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Shangri-La Frontier": {
@@ -2303,6 +2447,7 @@
             "504"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2023"
     },
     "Mashle 2nd Season": {
@@ -2319,6 +2464,7 @@
             "310"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Ragna Crimson": {
@@ -2336,7 +2482,23 @@
             "427"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
+    },
+    "Tasogare Outfocus": {
+        "title": "Tasogare Outfocus",
+        "genre": [
+            "Anime",
+            "Học đường",
+            "Đời thường"
+        ],
+        "rating": [
+            "3.3",
+            "122"
+        ],
+        "status": "Hoàn thành",
+        "episodes": 12,
+        "release year": "2024"
     },
     "Shoshimin: How to Become Ordinary": {
         "title": "Shoshimin: How to Become Ordinary",
@@ -2350,6 +2512,7 @@
             "49"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2024"
     },
     "Boukyaku Battery (TV)": {
@@ -2364,6 +2527,7 @@
             "25"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Madogiwa no Totto-chan": {
@@ -2380,6 +2544,7 @@
             "12"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Wind Breaker": {
@@ -2394,6 +2559,7 @@
             "214"
         ],
         "status": "Hoàn thành",
+        "episodes": 15,
         "release year": "2024"
     },
     "Kenka Dokugaku": {
@@ -2406,9 +2572,10 @@
         ],
         "rating": [
             "8.6",
-            "120"
+            "121"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Blue Archive The Animation": {
@@ -2423,6 +2590,7 @@
             "135"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Hibike! Euphonium 3": {
@@ -2438,6 +2606,7 @@
             "23"
         ],
         "status": "Đang tiến hành",
+        "episodes": 2,
         "release year": "2024"
     },
     "Shigatsu wa Kimi no Uso": {
@@ -2454,6 +2623,7 @@
             "2128"
         ],
         "status": "Hoàn thành",
+        "episodes": 22,
         "release year": "2014"
     },
     "Shigatsu wa Kimi no Uso OVA": {
@@ -2471,6 +2641,7 @@
             "167"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2015"
     },
     "Boku no Kokoro no Yabai Yatsu Season 2": {
@@ -2487,6 +2658,7 @@
             "302"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Jaku-Chara Tomozaki-kun 2nd Stage": {
@@ -2502,6 +2674,7 @@
             "107"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season": {
@@ -2517,6 +2690,7 @@
             "350"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Oroka na Tenshi wa Akuma to Odoru": {
@@ -2533,6 +2707,7 @@
             "183"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Yuru Camp△ Season 3": {
@@ -2546,6 +2721,7 @@
             "42"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2024"
     },
     "Tadaima, Okaer": {
@@ -2561,6 +2737,7 @@
             "50"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Tonari no Youkai-san": {
@@ -2575,6 +2752,7 @@
             "22"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Rinkai": {
@@ -2589,6 +2767,7 @@
             "30"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Rising Impact": {
@@ -2603,6 +2782,7 @@
             "15"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Kuroshitsuji: Kishuku Gakkou-hen": {
@@ -2619,6 +2799,7 @@
             "60"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Bartender: Kami no Glass": {
@@ -2634,6 +2815,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Dog Signal": {
@@ -2648,6 +2830,7 @@
             "38"
         ],
         "status": "Hoàn thành",
+        "episodes": 20,
         "release year": "2023"
     },
     "Megumi no Daigo: Kyuukoku no Orange": {
@@ -2663,6 +2846,7 @@
             "41"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Yubisaki to Renren": {
@@ -2678,6 +2862,7 @@
             "86"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Atarashii Joushi wa Do Tennen": {
@@ -2692,6 +2877,7 @@
             "37"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "The First Slam Dunk": {
@@ -2707,6 +2893,7 @@
             "13"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Nhật Ký Thường Ngày Của Tiên Vương Phần 4": {
@@ -2724,6 +2911,7 @@
             "172"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Kawagoe Boys Sing": {
@@ -2738,6 +2926,7 @@
             "17"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2023"
     },
     "16bit Sensation Another Layer": {
@@ -2752,6 +2941,7 @@
             "41"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Baki Hanma VS Kengan Ashura": {
@@ -2766,6 +2956,7 @@
             "32"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Dragon Ball Heroes": {
@@ -2784,6 +2975,7 @@
             "2544"
         ],
         "status": "Đang tiến hành",
+        "episodes": 52,
         "release year": "2018"
     },
     "Rurouni Kenshin (2023)": {
@@ -2801,6 +2993,7 @@
             "66"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Baki Hanma (Season 2)": {
@@ -2816,6 +3009,7 @@
             "91"
         ],
         "status": "Hoàn thành",
+        "episodes": 27,
         "release year": "2023"
     },
     "Toàn Chức Pháp Sư 6": {
@@ -2832,6 +3026,7 @@
             "179"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Majutsushi Orphen Hagure Tabi: Urbanrama-hen (Ss3)": {
@@ -2849,6 +3044,7 @@
             "49"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Mou Ippon!": {
@@ -2864,6 +3060,7 @@
             "62"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Boruto: Naruto Next Generations": {
@@ -2881,6 +3078,7 @@
             "8304"
         ],
         "status": "Hoàn thành",
+        "episodes": 293,
         "release year": "2017"
     },
     "Phong Tư Vật Ngữ: Tiên La": {
@@ -2896,6 +3094,7 @@
             "156"
         ],
         "status": "Đang tiến hành",
+        "episodes": 20,
         "release year": "2022"
     },
     "Dragon Quest: Dai no Daibouken": {
@@ -2914,6 +3113,7 @@
             "284"
         ],
         "status": "Hoàn thành",
+        "episodes": 100,
         "release year": "2020"
     },
     "Tekken: Bloodline": {
@@ -2929,6 +3129,7 @@
             "29"
         ],
         "status": "Đang tiến hành",
+        "episodes": 6,
         "release year": "2022"
     },
     "Shin Ikkitousen": {
@@ -2945,6 +3146,7 @@
             "34"
         ],
         "status": "Đang tiến hành",
+        "episodes": 3,
         "release year": "2022"
     },
     "Shenmue the Animation": {
@@ -2960,6 +3162,7 @@
             "37"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Dragon Ball Super Movie: Broly": {
@@ -2979,6 +3182,7 @@
             "343"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Ikkitousen: Western Wolves": {
@@ -2996,6 +3200,7 @@
             "21"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2019"
     },
     "Baki Hanma": {
@@ -3011,6 +3216,7 @@
             "125"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Tenka Hyakken: Meiji-kan e Youkoso!": {
@@ -3029,6 +3235,7 @@
             "105"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Gibiate": {
@@ -3046,6 +3253,7 @@
             "126"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "The God of High School": {
@@ -3065,6 +3273,7 @@
             "1181"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     "Baki 2nd Season": {
@@ -3080,6 +3289,7 @@
             "142"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     "Majutsushi Orphen Hagure Tabi": {
@@ -3097,6 +3307,7 @@
             "179"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     "Kengan Ashura 2nd Season": {
@@ -3111,6 +3322,7 @@
             "92"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "One Piece: Stampede": {
@@ -3128,6 +3340,7 @@
             "319"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Kengan Ashura": {
@@ -3142,6 +3355,7 @@
             "196"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka": {
@@ -3161,6 +3375,7 @@
             "29"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Hinomaruzumou": {
@@ -3176,6 +3391,7 @@
             "1014"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2018"
     },
     "Ken En Ken: Aoki Kagayaki": {
@@ -3193,6 +3409,7 @@
             "1254"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2018"
     },
     "Baki": {
@@ -3208,6 +3425,7 @@
             "2695"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2018"
     },
     "Toàn Chức Cao Thủ Phần 3": {
@@ -3221,6 +3439,7 @@
             "145"
         ],
         "status": "Hoàn thành",
+        "episodes": 17,
         "release year": "2024"
     },
     "The New Gate": {
@@ -3237,6 +3456,7 @@
             "182"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Pon no Michi": {
@@ -3252,6 +3472,7 @@
             "63"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Toaru Ossan no VRMMO Katsudouki": {
@@ -3268,6 +3489,7 @@
             "129"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Watashi no Oshi wa Akuyaku Reijou": {
@@ -3283,6 +3505,7 @@
             "99"
         ],
         "status": "Đang tiến hành",
+        "episodes": 8,
         "release year": "2023"
     },
     "KamiErab": {
@@ -3298,6 +3521,7 @@
             "42"
         ],
         "status": "Đang tiến hành",
+        "episodes": 6,
         "release year": "2023"
     },
     "Level 1 dakedo Unique Skill de Saikyou desu": {
@@ -3314,6 +3538,7 @@
             "161"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Liar Liar": {
@@ -3329,6 +3554,7 @@
             "149"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Yamada-kun to Lv999 no Koi wo Suru": {
@@ -3343,6 +3569,7 @@
             "374"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Sword Art Online the Movie: Progressive - Scherzo of Deep Night ": {
@@ -3359,6 +3586,7 @@
             "179"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2": {
@@ -3376,6 +3604,7 @@
             "335"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Uzaki-chan wa Asobitai! Double (Ss2)": {
@@ -3392,6 +3621,7 @@
             "224"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Seiken Densetsu: Legend of Mana - The Teardrop Crystal": {
@@ -3408,6 +3638,7 @@
             "142"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Overlord IV": {
@@ -3423,6 +3654,7 @@
             "1292"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria": {
@@ -3440,6 +3672,7 @@
             "403"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Build Divide: Code White (Ss2)": {
@@ -3454,6 +3687,7 @@
             "62"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu": {
@@ -3469,6 +3703,7 @@
             "589"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "RPG Fudousan": {
@@ -3485,6 +3720,7 @@
             "62"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Build Divide: Code Black": {
@@ -3500,6 +3736,7 @@
             "170"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Yu☆Gi☆Oh: Sevens": {
@@ -3516,6 +3753,7 @@
             "161"
         ],
         "status": "Đang tiến hành",
+        "episodes": 57,
         "release year": "2020"
     },
     "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season": {
@@ -3533,6 +3771,7 @@
             "268"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara": {
@@ -3549,6 +3788,7 @@
             "603"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Cardfight!! Vanguard overDress": {
@@ -3563,6 +3803,7 @@
             "39"
         ],
         "status": "Đang tiến hành",
+        "episodes": 4,
         "release year": "2021"
     },
     "Log Horizon: Entaku Houkai": {
@@ -3579,6 +3820,7 @@
             "329"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "DOTA: Dragon's Blood": {
@@ -3594,6 +3836,7 @@
             "29"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2021"
     },
     "Shadowverse": {
@@ -3608,6 +3851,7 @@
             "45"
         ],
         "status": "Đang tiến hành",
+        "episodes": 7,
         "release year": "2020"
     },
     "100-man no Inochi no Ue ni Ore wa Tatteiru": {
@@ -3625,6 +3869,7 @@
             "335"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Gundam Build Divers Re:Rise": {
@@ -3640,6 +3885,7 @@
             "104"
         ],
         "status": "Hoàn thành",
+        "episodes": 28,
         "release year": "2019"
     },
     "Detective Conan: Black Iron Submarine": {
@@ -3656,6 +3902,7 @@
             "16"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Ron Kamonohashi: Thám Tử Loạn Trí": {
@@ -3671,6 +3918,7 @@
             "64"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     " Conan Movie 26: Tàu Ngầm Sắt Màu Đen": {
@@ -3686,6 +3934,7 @@
             "45"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Thám Tử Lừng Danh Conan": {
@@ -3703,6 +3952,7 @@
             "3889"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1088,
         "release year": "1996"
     },
     "Undead Girl Murder Farce": {
@@ -3719,6 +3969,7 @@
             "194"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Record of Ragnarok Season 2": {
@@ -3736,6 +3987,7 @@
             "278"
         ],
         "status": "Hoàn thành",
+        "episodes": 15,
         "release year": "2023"
     },
     "Fuufu Ijou, Koibito Miman.": {
@@ -3753,6 +4005,7 @@
             "513"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Layton Mystery Tanteisha: Katri no Nazotoki File": {
@@ -3767,6 +4020,7 @@
             "49"
         ],
         "status": "Đang tiến hành",
+        "episodes": 50,
         "release year": "2018"
     },
     "Yuukoku no Moriarty OVA": {
@@ -3784,6 +4038,7 @@
             "39"
         ],
         "status": "Hoàn thành",
+        "episodes": 2,
         "release year": "2022"
     },
     "Sankaku Mado no Sotogawa wa Yoru": {
@@ -3800,6 +4055,7 @@
             "89"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Tesla Note": {
@@ -3815,6 +4071,7 @@
             "39"
         ],
         "status": "Đang tiến hành",
+        "episodes": 2,
         "release year": "2021"
     },
     "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season": {
@@ -3830,6 +4087,7 @@
             "35"
         ],
         "status": "Hoàn thành",
+        "episodes": 9,
         "release year": "2021"
     },
     "Death Note Relight 1: Visions Of A God": {
@@ -3847,6 +4105,7 @@
             "44"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2007"
     },
     "Kabukichou Sherlock": {
@@ -3860,6 +4119,7 @@
             "63"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2019"
     },
     "Psycho-Pass 3": {
@@ -3876,6 +4136,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2019"
     },
     "Cop Craft": {
@@ -3892,6 +4153,7 @@
             "506"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Gyakuten Saiban: Sono Shinjitsu, Igi Ari! Season 2": {
@@ -3908,6 +4170,7 @@
             "1512"
         ],
         "status": "Hoàn thành",
+        "episodes": 23,
         "release year": "2018"
     },
     "Detective Conan Movie 22: Zero The Enforcer": {
@@ -3925,6 +4188,7 @@
             "574"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Hakata Tonkotsu Ramens": {
@@ -3940,6 +4204,7 @@
             "187"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Detective Conan Movie 21: The Crimson Love Letter": {
@@ -3958,6 +4223,7 @@
             "119"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori": {
@@ -3973,6 +4239,7 @@
             "215"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2016"
     },
     "The Disappearance of Conan Edogawa: The Worst Two Days in History": {
@@ -3989,6 +4256,7 @@
             "82"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2014"
     },
     "Detective Conan: The Fugitive Kogorou Mouri": {
@@ -4003,6 +4271,7 @@
             "38"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2014"
     },
     "Detective Conan Movie 1: The Timed Skyscraper - Quả Bom Chọc Trời": {
@@ -4019,6 +4288,7 @@
             "60"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "1997"
     },
     "Kingdom 5th Season": {
@@ -4033,6 +4303,7 @@
             "64"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Meiji Gekken: 1874": {
@@ -4050,6 +4321,7 @@
             "30"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2024"
     },
     "Tam Thập Lục Kỵ": {
@@ -4065,6 +4337,7 @@
             "73"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Ōoku: The Inner Chambers": {
@@ -4080,6 +4353,7 @@
             "7"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2023"
     },
     "Blue Eye Samurai": {
@@ -4095,6 +4369,7 @@
             "11"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2023"
     },
     "Watashi no Shiawase na Kekkon": {
@@ -4110,6 +4385,7 @@
             "229"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Hỏa Phụng Liêu Nguyên": {
@@ -4125,6 +4401,7 @@
             "204"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2022"
     },
     "Golden Kamuy Season 4": {
@@ -4140,6 +4417,7 @@
             "69"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Jigokuraku": {
@@ -4156,6 +4434,7 @@
             "607"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Thanh Gươm Diệt Quỷ Phần 2: Phố Đèn Đỏ (Kỹ Viện Trấn)": {
@@ -4172,6 +4451,7 @@
             "167"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Nokemono-tachi no Yoru": {
@@ -4187,6 +4467,7 @@
             "84"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Kingdom 4th Season": {
@@ -4203,6 +4484,7 @@
             "110"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2022"
     },
     "Koukyuu no Karasu": {
@@ -4217,6 +4499,7 @@
             "124"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Uchi no Shishou wa Shippo ga Nai": {
@@ -4232,6 +4515,7 @@
             "54"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Mushikaburi-hime": {
@@ -4247,6 +4531,7 @@
             "109"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Kingdom 3rd Season": {
@@ -4262,6 +4547,7 @@
             "59"
         ],
         "status": "Đang tiến hành",
+        "episodes": 27,
         "release year": "2020"
     },
     "Baraou no Souretsu": {
@@ -4279,6 +4565,7 @@
             "112"
         ],
         "status": "Đang tiến hành",
+        "episodes": 25,
         "release year": "2022"
     },
     "Mars Red": {
@@ -4296,6 +4583,7 @@
             "84"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Sabiiro no Armor: Reimei": {
@@ -4311,6 +4599,7 @@
             "466"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "High Card": {
@@ -4325,6 +4614,7 @@
             "148"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Undead Unluck": {
@@ -4342,6 +4632,7 @@
             "253"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Sasaki và P-chan": {
@@ -4358,6 +4649,7 @@
             "187"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Boku no Hero Academia: UA Heroes Battle": {
@@ -4373,6 +4665,7 @@
             "36"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Boku no Hero Academia 6th Season": {
@@ -4389,6 +4682,7 @@
             "493"
         ],
         "status": "Đang tiến hành",
+        "episodes": 25,
         "release year": "2022"
     },
     "Mairimashita! Iruma-kun 3rd Season": {
@@ -4407,6 +4701,7 @@
             "358"
         ],
         "status": "Đang tiến hành",
+        "episodes": 21,
         "release year": "2022"
     },
     "Dragon Ball Super: Super Hero 2022": {
@@ -4423,6 +4718,7 @@
             "65"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Mob Psycho 100 III": {
@@ -4438,6 +4734,7 @@
             "240"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Nhật Ký Thường Ngày Của Tiên Vương Phần 3": {
@@ -4454,6 +4751,7 @@
             "395"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Tiger & Bunny 2": {
@@ -4469,6 +4767,7 @@
             "34"
         ],
         "status": "Đang tiến hành",
+        "episodes": 25,
         "release year": "2022"
     },
     "Promare: Galo-hen": {
@@ -4485,6 +4784,7 @@
             "21"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Promare: Lio-hen": {
@@ -4501,6 +4801,7 @@
             "16"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Jujutsu Kaisen 0 Movie": {
@@ -4517,6 +4818,7 @@
             "345"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Boku no Hero Academia 5th Season": {
@@ -4534,6 +4836,7 @@
             "688"
         ],
         "status": "Hoàn thành",
+        "episodes": 29,
         "release year": "2021"
     },
     "Shaman King (2021)": {
@@ -4552,6 +4855,7 @@
             "209"
         ],
         "status": "Hoàn thành",
+        "episodes": 52,
         "release year": "2021"
     },
     "Kaijuu 8-gou": {
@@ -4568,6 +4872,7 @@
             "490"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Urusei Yatsura (2022) 2nd Season": {
@@ -4583,6 +4888,7 @@
             "32"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2024"
     },
     "Urusei Yatsura (2022)": {
@@ -4599,6 +4905,7 @@
             "108"
         ],
         "status": "Đang tiến hành",
+        "episodes": 26,
         "release year": "2022"
     },
     "Jujutsu Kaisen 2nd Season": {
@@ -4615,6 +4922,7 @@
             "445"
         ],
         "status": "Hoàn thành",
+        "episodes": 27,
         "release year": "2023"
     },
     "Mahoutsukai no Yome 2": {
@@ -4630,6 +4938,7 @@
             "235"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Tensei Shitara Slime Datta Ken: Coleus no Yume": {
@@ -4646,6 +4955,7 @@
             "146"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2023"
     },
     "Kanojo, Okarishimasu 3rd Season": {
@@ -4661,6 +4971,7 @@
             "238"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Bleach: Sennen Kessen-hen": {
@@ -4677,6 +4988,7 @@
             "499"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2022"
     },
     "Edens Zero 2nd Season": {
@@ -4695,6 +5007,7 @@
             "123"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2023"
     },
     "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii": {
@@ -4710,6 +5023,7 @@
             "85"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Thuốc giải": {
@@ -4726,6 +5040,7 @@
             "16"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     "Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen": {
@@ -4742,6 +5057,7 @@
             "56"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Saezuru Tori wa Habatakanai: Don't Stay Gold": {
@@ -4757,6 +5073,7 @@
             "20"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Boku no Hero Academia 2nd Season": {
@@ -4774,6 +5091,7 @@
             "120"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2017"
     },
     "Sasaki to Miyano": {
@@ -4789,6 +5107,7 @@
             "278"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Given: Uragawa no Sonzai": {
@@ -4804,6 +5123,7 @@
             "35"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Dounika Naru Hibi": {
@@ -4822,6 +5142,7 @@
             "30"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Người lạ bên bờ biển": {
@@ -4837,6 +5158,7 @@
             "145"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Given Movie": {
@@ -4852,6 +5174,7 @@
             "98"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Saezuru Tori wa Habatakanai: The clouds gather": {
@@ -4866,6 +5189,7 @@
             "52"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Given": {
@@ -4882,6 +5206,7 @@
             "247"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2019"
     },
     "Dakaretai Otoko 1-i ni Odosarete Imasu.": {
@@ -4896,6 +5221,7 @@
             "1773"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2018"
     },
     "Kono Danshi, Uchuujin to Tatakaemasu": {
@@ -4912,6 +5238,7 @@
             "212"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2016"
     },
     "Taishou Chicchai-san": {
@@ -4927,6 +5254,7 @@
             "53"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Hitorijime My Hero": {
@@ -4942,6 +5270,7 @@
             "286"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Super Lovers 2": {
@@ -4958,6 +5287,7 @@
             "333"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2017"
     },
     "Spiritpact": {
@@ -4973,6 +5303,7 @@
             "73"
         ],
         "status": "Đang tiến hành",
+        "episodes": 0,
         "release year": "2017"
     },
     "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai": {
@@ -4988,6 +5319,7 @@
             "52"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2014"
     },
     "Sekaiichi Hatsukoi 2": {
@@ -5004,6 +5336,7 @@
             "69"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2011"
     },
     "Sekai-ichi Hatsukoi": {
@@ -5020,6 +5353,7 @@
             "100"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2011"
     },
     "Gakuen Heaven": {
@@ -5037,6 +5371,7 @@
             "61"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2006"
     },
     "Gravitation": {
@@ -5053,6 +5388,7 @@
             "37"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2000"
     },
     "Junjou Romantica": {
@@ -5069,6 +5405,7 @@
             "88"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2008"
     },
     "Junjou Romantica 2": {
@@ -5085,6 +5422,7 @@
             "61"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2008"
     },
     "Junjou Romantica 3": {
@@ -5101,6 +5439,7 @@
             "64"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2015"
     },
     "Love Stage!!": {
@@ -5116,6 +5455,7 @@
             "113"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2014"
     },
     "Love Stage!! OAD": {
@@ -5131,6 +5471,7 @@
             "35"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2014"
     },
     "Togainu No Chi": {
@@ -5146,6 +5487,7 @@
             "24"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2010"
     },
     "Ojou to Banken-kun": {
@@ -5161,6 +5503,7 @@
             "78"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Kibou no Chikara: Otona Precure Power of Hope ~Precure Full Bloom~23": {
@@ -5176,6 +5519,7 @@
             "24"
         ],
         "status": "Đang tiến hành",
+        "episodes": 6,
         "release year": "2023"
     },
     "Niehime to Kemono no Ou": {
@@ -5192,6 +5536,7 @@
             "123"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Mahou Shoujo Magical Destroyers": {
@@ -5207,6 +5552,7 @@
             "79"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Tokyo Mew Mew New~♡ 2nd Season": {
@@ -5223,6 +5569,7 @@
             "69"
         ],
         "status": "Đang tiến hành",
+        "episodes": 5,
         "release year": "2023"
     },
     "Akuyaku Reijou nanode Last Boss wo Kattemimashita": {
@@ -5238,6 +5585,7 @@
             "188"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X": {
@@ -5257,6 +5605,7 @@
             "233"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Kageki Shoujo!! - Opera Girl! - The Curtain Rises": {
@@ -5272,6 +5621,7 @@
             "53"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha": {
@@ -5289,6 +5639,7 @@
             "82"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Fruits Basket (2019): The Final": {
@@ -5307,6 +5658,7 @@
             "216"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Majo Minarai wo Sagashite": {
@@ -5321,6 +5673,7 @@
             "27"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Omoi, Omoware, Furi, Furare": {
@@ -5337,6 +5690,7 @@
             "100"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman": {
@@ -5353,6 +5707,7 @@
             "31"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai": {
@@ -5368,6 +5723,7 @@
             "31"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Okami Shoujo to Kuro Ouji": {
@@ -5384,6 +5740,7 @@
             "426"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2014"
     },
     "Koi to Producer: EVOL×LOVE": {
@@ -5401,6 +5758,7 @@
             "54"
         ],
         "status": "Đang tiến hành",
+        "episodes": 2,
         "release year": "2020"
     },
     "Fruits Basket (2019) 2nd Season": {
@@ -5419,6 +5777,7 @@
             "175"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2020"
     },
     "Donten ni Warau Gaiden 3: Ouka, Tenbou no Kakehashi": {
@@ -5434,6 +5793,7 @@
             "21"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Donten ni Warau Gaiden 2: Shukumei, Soutou no Fuuma": {
@@ -5449,6 +5809,7 @@
             "17"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Donten ni Warau Gaiden 1: Ketsubetsu, Yamainu no Chikai ": {
@@ -5464,6 +5825,7 @@
             "22"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Gekijouban Alice in the Garden": {
@@ -5481,6 +5843,7 @@
             "41"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Servamp": {
@@ -5498,6 +5861,7 @@
             "319"
         ],
         "status": "Hoàn thành",
+        "episodes": 15,
         "release year": "2016"
     },
     "Healin' Good♡Precure": {
@@ -5513,6 +5877,7 @@
             "22"
         ],
         "status": "Đang tiến hành",
+        "episodes": 14,
         "release year": "2020"
     },
     "Ensemble Stars": {
@@ -5528,6 +5893,7 @@
             "75"
         ],
         "status": "Đang tiến hành",
+        "episodes": 23,
         "release year": "2019"
     },
     "Mayonaka no Occult Koumuin": {
@@ -5545,6 +5911,7 @@
             "235"
         ],
         "status": "Hoàn thành",
+        "episodes": 15,
         "release year": "2019"
     },
     "Hikikomari Kyuuketsuki no Monmon": {
@@ -5561,6 +5928,7 @@
             "173"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Watashi no Yuri wa Oshigoto desu!": {
@@ -5575,6 +5943,7 @@
             "98"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei": {
@@ -5591,6 +5960,7 @@
             "52"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Tensei Oujo to Tensai Reijou no Mahou Kakumei": {
@@ -5606,6 +5976,7 @@
             "373"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Urasekai Picnic": {
@@ -5623,6 +5994,7 @@
             "145"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Adachi to Shimamura": {
@@ -5639,6 +6011,7 @@
             "177"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Fragtime": {
@@ -5656,6 +6029,7 @@
             "89"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Doukyuusei": {
@@ -5672,6 +6046,7 @@
             "81"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2016"
     },
     "Watashi ni Tenshi ga Maiorita!": {
@@ -5686,6 +6061,7 @@
             "434"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2019"
     },
     "Uchi no Maid ga Uzasugiru!": {
@@ -5702,6 +6078,7 @@
             "952"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2018"
     },
     "Kashimashi - Girl Meets Girl": {
@@ -5718,6 +6095,7 @@
             "60"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2006"
     },
     "Yagate Kimi ni Naru": {
@@ -5732,6 +6110,7 @@
             "927"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2018"
     },
     "Tonari no Kyuuketsuki-san": {
@@ -5748,6 +6127,7 @@
             "779"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Tachibanakan Triangle": {
@@ -5763,6 +6143,7 @@
             "222"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Asagao to Kase-san": {
@@ -5778,6 +6159,7 @@
             "258"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Citrus": {
@@ -5794,6 +6176,7 @@
             "540"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Konohana Kitan": {
@@ -5811,6 +6194,7 @@
             "234"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Netsuzou TRap": {
@@ -5826,6 +6210,7 @@
             "184"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Gakuen Handsome": {
@@ -5841,6 +6226,7 @@
             "248"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2016"
     },
     "Mnemosyne Mnemosyne no Musume-tachi": {
@@ -5858,6 +6244,7 @@
             "22"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2008"
     },
     "Strawberry Panic": {
@@ -5874,6 +6261,7 @@
             "75"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2006"
     },
     "Sasameki Koto": {
@@ -5890,6 +6278,7 @@
             "33"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2009"
     },
     "Mnemosyne: Mnemosyne no Musume-tachi": {
@@ -5907,6 +6296,7 @@
             "14"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2008"
     },
     "Otome Wa Boku Ni Koishiteru: Futari No Elder": {
@@ -5923,6 +6313,7 @@
             "36"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2012"
     },
     "Junjou Romantica Special": {
@@ -5938,6 +6329,7 @@
             "33"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2008"
     },
     "Akuma no Riddle": {
@@ -5953,6 +6345,7 @@
             "90"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2014"
     },
     "Akuma no Riddle OVA": {
@@ -5969,6 +6362,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2014"
     },
     "Valkyrie Drive: Mermaid": {
@@ -5985,6 +6379,7 @@
             "90"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2015"
     },
     "Kanamemo": {
@@ -6001,20 +6396,8 @@
             "42"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2009"
-    },
-    "Na Nare Hana Nare": {
-        "title": "Na Nare Hana Nare",
-        "genre": [
-            "Anime",
-            "Thể thao"
-        ],
-        "rating": [
-            "5.2",
-            "19"
-        ],
-        "status": "Đang tiến hành",
-        "release year": "2024"
     },
     "Captain Tsubasa Season 2: Junior Youth-hen": {
         "title": "Captain Tsubasa Season 2: Junior Youth-hen",
@@ -6027,6 +6410,7 @@
             "74"
         ],
         "status": "Hoàn thành",
+        "episodes": 39,
         "release year": "2023"
     },
     "Oi! Tonbo": {
@@ -6040,6 +6424,7 @@
             "32"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Highspeed Etoile": {
@@ -6053,6 +6438,7 @@
             "31"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Uma Musume: Pretty Derby Season 3": {
@@ -6066,6 +6452,7 @@
             "36"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Overtake!": {
@@ -6080,6 +6467,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Free! Movie 4: The Final Stroke - Zenpen": {
@@ -6095,6 +6483,7 @@
             "33"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Free! Movie 2: Timeless Medley - Yakusoku": {
@@ -6109,6 +6498,7 @@
             "6"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Free! Movie 1: Timeless Medley - Kizuna": {
@@ -6123,6 +6513,7 @@
             "5"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Dance Dance Danseur": {
@@ -6137,6 +6528,7 @@
             "23"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2022"
     },
     "Birdie Wing: Golf Girls' Story Season 2": {
@@ -6150,6 +6542,7 @@
             "74"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Yowamushi Pedal OVA – Special Ride": {
@@ -6164,6 +6557,7 @@
             "9"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2013"
     },
     "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen": {
@@ -6178,6 +6572,7 @@
             "8"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2016"
     },
     "Tsurune: Tsunagari no Issha (Ss2)": {
@@ -6193,6 +6588,7 @@
             "71"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Yowamushi Pedal: Limit Break": {
@@ -6207,6 +6603,7 @@
             "104"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2022"
     },
     "Blue Lock": {
@@ -6221,6 +6618,7 @@
             "521"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2022"
     },
     "Tsurune: Kazemai Koukou Kyuudou-bu": {
@@ -6236,6 +6634,7 @@
             "52"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2018"
     },
     "Haikyuu!! Movie 3: Sainou to Sense": {
@@ -6253,6 +6652,7 @@
             "29"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Haikyuu!! Movie Tập 2 - Shousha to Haisha": {
@@ -6270,6 +6670,7 @@
             "24"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2016"
     },
     "Haikyuu!! Movie 1 – Owari to Hajimari": {
@@ -6285,6 +6686,7 @@
             "20"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2015"
     },
     "Shoot! Goal to the Future": {
@@ -6299,6 +6701,7 @@
             "55"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Love All Play": {
@@ -6312,6 +6715,7 @@
             "69"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2022"
     },
     "Extreme Hearts": {
@@ -6326,6 +6730,7 @@
             "58"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Ao Ashi": {
@@ -6339,6 +6744,7 @@
             "266"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2022"
     },
     "The iDOLM@STER Shiny Colors": {
@@ -6352,6 +6758,7 @@
             "11"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Shigatsu Wa Kimi No Uso Finale Event": {
@@ -6365,6 +6772,7 @@
             "53"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2015"
     },
     "Kizuna no Allele 2nd Season": {
@@ -6378,6 +6786,7 @@
             "8"
         ],
         "status": "Đang tiến hành",
+        "episodes": 7,
         "release year": "2023"
     },
     "Paradox Live THE ANIMATION": {
@@ -6392,6 +6801,7 @@
             "26"
         ],
         "status": "Đang tiến hành",
+        "episodes": 6,
         "release year": "2023"
     },
     "Ao no Orchestra": {
@@ -6408,6 +6818,7 @@
             "110"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Genjitsu no Yohane: Sunshine in the Mirror": {
@@ -6422,6 +6833,7 @@
             "43"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2023"
     },
     "BanG Dream! It's MyGO!!!!!": {
@@ -6435,6 +6847,7 @@
             "42"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2023"
     },
     "World Dai Star": {
@@ -6449,6 +6862,7 @@
             "54"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Kizuna no Allele": {
@@ -6462,6 +6876,7 @@
             "82"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "UniteUp!": {
@@ -6475,6 +6890,7 @@
             "63"
         ],
         "status": "Đang tiến hành",
+        "episodes": 5,
         "release year": "2023"
     },
     "Vazzrock The Animation": {
@@ -6488,6 +6904,7 @@
             "64"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Bocchi the Rock!": {
@@ -6503,6 +6920,7 @@
             "335"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Massara": {
@@ -6517,6 +6935,7 @@
             "72"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Luminous Witches": {
@@ -6532,6 +6951,7 @@
             "71"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "RWBY: Hyousetsu Teikoku": {
@@ -6546,6 +6966,7 @@
             "109"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2022"
     },
     "Kami Kuzu☆Idol": {
@@ -6561,6 +6982,7 @@
             "56"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2022"
     },
     "Healer Girl": {
@@ -6574,6 +6996,7 @@
             "50"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Cue!": {
@@ -6587,6 +7010,7 @@
             "66"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2022"
     },
     "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season": {
@@ -6602,6 +7026,7 @@
             "41"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Irodorimidori": {
@@ -6616,6 +7041,7 @@
             "29"
         ],
         "status": "Đang tiến hành",
+        "episodes": 8,
         "release year": "2022"
     },
     "Ai no Utagoe wo Kikasete": {
@@ -6632,6 +7058,7 @@
             "78"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Shoujo☆Kageki Revue Starlight Movie": {
@@ -6646,6 +7073,7 @@
             "20"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo": {
@@ -6660,6 +7088,7 @@
             "22"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Lookism": {
@@ -6677,6 +7106,7 @@
             "63"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2022"
     },
     "Summertime Render": {
@@ -6692,6 +7122,7 @@
             "843"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2022"
     },
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season": {
@@ -6707,6 +7138,7 @@
             "979"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Kaguya-sama wa Kokurasetai: Ultra Romantic": {
@@ -6723,6 +7155,7 @@
             "662"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki": {
@@ -6737,6 +7170,7 @@
             "28"
         ],
         "status": "Đang tiến hành",
+        "episodes": 3,
         "release year": "2022"
     },
     "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen": {
@@ -6753,6 +7187,7 @@
             "97"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2016"
     },
     "TRESE: Người Bảo Vệ Thành Phố ": {
@@ -6767,6 +7202,7 @@
             "14"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2021"
     },
     "Yakusoku no Neverland 2nd Season": {
@@ -6784,6 +7220,7 @@
             "794"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2021"
     },
     "Beastars 2nd Season": {
@@ -6800,6 +7237,7 @@
             "149"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season": {
@@ -6816,6 +7254,7 @@
             "1269"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2020"
     },
     "Higurashi no Naku Koro ni Gou": {
@@ -6833,6 +7272,7 @@
             "135"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2020"
     },
     " Munou na Nana": {
@@ -6850,6 +7290,7 @@
             "332"
         ],
         "status": "Hoàn thành",
+        "episodes": 14,
         "release year": "2020"
     },
     "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen Season 2": {
@@ -6867,6 +7308,7 @@
             "1318"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Re:Zero kara Hajimeru Isekai Seikatsu": {
@@ -6884,6 +7326,7 @@
             "2273"
         ],
         "status": "Hoàn thành",
+        "episodes": 27,
         "release year": "2016"
     },
     "Pet": {
@@ -6900,6 +7343,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     " Magia Record: Mahou Shoujo Madoka★Magica Gaiden": {
@@ -6915,6 +7359,7 @@
             "71"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     "Beastars": {
@@ -6931,6 +7376,7 @@
             "212"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni": {
@@ -6947,6 +7393,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Psycho-Pass: Sinners of the System Case.2 – First Guardian": {
@@ -6963,6 +7410,7 @@
             "23"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi": {
@@ -6979,6 +7427,7 @@
             "38"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Kakegurui××": {
@@ -6997,6 +7446,7 @@
             "553"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Boogiepop wa Warawanai": {
@@ -7013,6 +7463,7 @@
             "1194"
         ],
         "status": "Hoàn thành",
+        "episodes": 18,
         "release year": "2019"
     },
     "Inuyashiki": {
@@ -7029,6 +7480,7 @@
             "453"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2017"
     },
     "Bullbuster": {
@@ -7044,6 +7496,7 @@
             "31"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "202"
     },
     "Suisei no Gargantia Specials": {
@@ -7059,6 +7512,7 @@
             "43"
         ],
         "status": "Hoàn thành",
+        "episodes": 4,
         "release year": "2013"
     },
     "Gundam Build Metaverse": {
@@ -7072,6 +7526,7 @@
             "21"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Synduality: Noir": {
@@ -7086,6 +7541,7 @@
             "124"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Mobile Suit Gundam: Suisei no Majo Season 2": {
@@ -7101,6 +7557,7 @@
             "69"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Alice Gear Aegis Expansion": {
@@ -7116,6 +7573,7 @@
             "73"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Megaton-kyuu Musashi 2nd Season": {
@@ -7132,6 +7590,7 @@
             "67"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2023"
     },
     "Mobile Suit Gundam: The Witch from Mercury": {
@@ -7148,6 +7607,7 @@
             "154"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Muv-Luv Alternative 2nd Season": {
@@ -7165,6 +7625,7 @@
             "56"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Kyoukai Senki": {
@@ -7179,6 +7640,7 @@
             "119"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2021"
     },
     "Date A Live IV": {
@@ -7197,6 +7659,7 @@
             "593"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Megaton-kyuu Musashi": {
@@ -7213,6 +7676,7 @@
             "57"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2021"
     },
     "86 (Eighty Six) 2nd Season": {
@@ -7230,6 +7694,7 @@
             "893"
         ],
         "status": "Hoàn thành",
+        "episodes": 15,
         "release year": "2021"
     },
     "Gundam Breaker: Battlogue": {
@@ -7244,6 +7709,7 @@
             "28"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2021"
     },
     "Gyakuten Sekai no Denchi Shoujo": {
@@ -7259,6 +7725,7 @@
             "73"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Sakugan": {
@@ -7273,6 +7740,7 @@
             "65"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Muv-Luv Alternative": {
@@ -7289,6 +7757,7 @@
             "89"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "IS: Infinite Stratos SS1": {
@@ -7307,6 +7776,7 @@
             "818"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2011"
     },
     "Evangelion: 3.0 1.0 Thrice Upon a Time": {
@@ -7323,6 +7793,7 @@
             "75"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "86 (Eighty Six)": {
@@ -7340,6 +7811,7 @@
             "770"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Planet With": {
@@ -7355,6 +7827,7 @@
             "16"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "SSSS.Dynazenon": {
@@ -7370,6 +7843,7 @@
             "107"
         ],
         "status": "Hoàn thành",
+        "episodes": 23,
         "release year": "2021"
     },
     "Shin Sakura Taisen the Animation": {
@@ -7386,6 +7860,7 @@
             "38"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Promare": {
@@ -7402,6 +7877,7 @@
             "48"
         ],
         "status": "Đang tiến hành",
+        "episodes": 3,
         "release year": "2019"
     },
     "Levius": {
@@ -7418,6 +7894,7 @@
             "49"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Code Geass: Fukkatsu no Lelouch | Code Geass: Lelouch of the Resurrection": {
@@ -7436,6 +7913,7 @@
             "422"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland": {
@@ -7453,6 +7931,7 @@
             "27"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Shingeki no Kyojin: The Final Season Part 3": {
@@ -7469,6 +7948,7 @@
             "395"
         ],
         "status": "Hoàn thành",
+        "episodes": 2,
         "release year": "2023"
     },
     "Phong Hỏa Chiến Kỷ": {
@@ -7486,6 +7966,7 @@
             "43"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Kantai Collection Itsuka Ano Umi de": {
@@ -7502,6 +7983,7 @@
             "53"
         ],
         "status": "Đang tiến hành",
+        "episodes": 8,
         "release year": "2022"
     },
     "Ginga Eiyuu Densetsu: Die Neue These - Sakubou": {
@@ -7517,6 +7999,7 @@
             "47"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu": {
@@ -7533,6 +8016,7 @@
             "34"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Shingeki no Kyojin: The Final Season Part 2": {
@@ -7550,6 +8034,7 @@
             "770"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Genjitsu Shugi Yuusha no Oukoku Saikenki 2nd Season": {
@@ -7566,6 +8051,7 @@
             "641"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Dolls' Frontline": {
@@ -7582,6 +8068,7 @@
             "90"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Girls & Panzer: Saishuushou Part 3": {
@@ -7595,6 +8082,7 @@
             "23"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Genjitsu Shugi Yuusha no Oukoku Saikenki": {
@@ -7612,6 +8100,7 @@
             "990"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "World Witches Take Off!": {
@@ -7629,6 +8118,7 @@
             "36"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2021"
     },
     "Azur Lane: Bisoku Zenshin!": {
@@ -7645,6 +8135,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Shingeki no Kyojin: The Final Season": {
@@ -7664,6 +8155,7 @@
             "1048"
         ],
         "status": "Đang tiến hành",
+        "episodes": 16,
         "release year": "2020"
     },
     "Soukou Musume Senki": {
@@ -7679,6 +8171,7 @@
             "39"
         ],
         "status": "Đang tiến hành",
+        "episodes": 4,
         "release year": "2021"
     },
     "Senyoku no Sigrdrifa": {
@@ -7693,6 +8186,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Strike Witches: Road to Berlin": {
@@ -7709,6 +8203,7 @@
             "48"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen": {
@@ -7725,6 +8220,7 @@
             "801"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Gekijouban High School Fleet ": {
@@ -7743,6 +8239,7 @@
             "28"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "\"Oshi no Ko\" 2nd Season": {
@@ -7758,6 +8255,7 @@
             "171"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Sousou no Frieren": {
@@ -7773,6 +8271,7 @@
             "479"
         ],
         "status": "Hoàn thành",
+        "episodes": 28,
         "release year": "2023"
     },
     "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga": {
@@ -7790,6 +8289,7 @@
             "199"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Maboroshi": {
@@ -7804,6 +8304,7 @@
             "56"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Tokyo Revengers: Tenjiku-hen": {
@@ -7819,6 +8320,7 @@
             "318"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Bokura no Ameiro Protocol": {
@@ -7833,6 +8335,7 @@
             "76"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Hametsu No Okoku": {
@@ -7848,6 +8351,7 @@
             "186"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Tate no Yuusha no Nariagari Season 3": {
@@ -7864,6 +8368,7 @@
             "274"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Delicious in Dungeon": {
@@ -7880,6 +8385,7 @@
             "165"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2024"
     },
     "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto": {
@@ -7897,6 +8403,7 @@
             "419"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Hoshikuzu Telepath": {
@@ -7912,6 +8419,7 @@
             "56"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Under Ninja": {
@@ -7926,6 +8434,7 @@
             "56"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Mononogatari 2nd Season": {
@@ -7941,6 +8450,7 @@
             "85"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "My Home Hero": {
@@ -7955,6 +8465,7 @@
             "162"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Kimi wa Houkago Insomnia": {
@@ -7970,6 +8481,7 @@
             "176"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Oshi no Ko": {
@@ -7985,6 +8497,7 @@
             "649"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Otonari ni Ginga": {
@@ -8000,6 +8513,7 @@
             "199"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Isekai One Turn Kill Nee-san": {
@@ -8015,6 +8529,7 @@
             "142"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Tengoku Daimakyou": {
@@ -8032,6 +8547,7 @@
             "258"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai": {
@@ -8049,6 +8565,7 @@
             "161"
         ],
         "status": "Hoàn thành",
+        "episodes": 4,
         "release year": "2023"
     },
     "Hoshi no Samidare": {
@@ -8066,6 +8583,7 @@
             "108"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2022"
     },
     "Shadows House 2nd Season": {
@@ -8081,6 +8599,7 @@
             "126"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Blue Thermal": {
@@ -8094,6 +8613,7 @@
             "12"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2022"
     },
     "Deaimon": {
@@ -8108,6 +8628,7 @@
             "172"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Hakozume: Kouban Joshi no Gyakushuu": {
@@ -8123,6 +8644,7 @@
             "72"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Non Non Biyori Nonstop (Ss3)": {
@@ -8138,6 +8660,7 @@
             "91"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Blue Period": {
@@ -8154,6 +8677,7 @@
             "239"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Stand By Me Doraemon 2": {
@@ -8169,6 +8693,7 @@
             "103"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Yami Shibai 12": {
@@ -8183,6 +8708,7 @@
             "13"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2024"
     },
     "Bách Yêu Phổ Phần 4": {
@@ -8197,6 +8723,7 @@
             "25"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Kurayukaba": {
@@ -8211,6 +8738,7 @@
             "5"
         ],
         "status": "Hoàn thành",
+        "episodes": 2,
         "release year": "2024"
     },
     "Ma Nữ Vô Tri": {
@@ -8225,6 +8753,7 @@
             "37"
         ],
         "status": "Đang tiến hành",
+        "episodes": 30,
         "release year": "2023"
     },
     "Himesama ": {
@@ -8239,6 +8768,7 @@
             "80"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "The Boy and the Heron": {
@@ -8253,6 +8783,7 @@
             "23"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Kami wa Game ni Ueteiru": {
@@ -8268,6 +8799,7 @@
             "94"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Tensei Kizoku, Kantei Skill de Nariagaru": {
@@ -8283,6 +8815,7 @@
             "186"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Make My Day": {
@@ -8298,6 +8831,7 @@
             "5"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2023"
     },
     "Akuma-kun": {
@@ -8312,6 +8846,7 @@
             "13"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Pluto": {
@@ -8327,6 +8862,7 @@
             "11"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2023"
     },
     "Good Night World": {
@@ -8342,6 +8878,7 @@
             "24"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Yami Shibai 11": {
@@ -8356,6 +8893,7 @@
             "42"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Jujutsu Kaisen (TV)": {
@@ -8374,6 +8912,7 @@
             "1866"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2020"
     },
     "Itou Junji: Maniac": {
@@ -8388,6 +8927,7 @@
             "27"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Chainsaw Man": {
@@ -8404,6 +8944,7 @@
             "1470"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Yami Shibai 10": {
@@ -8418,6 +8959,7 @@
             "83"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Mieruko-chan": {
@@ -8433,6 +8975,7 @@
             "542"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Yami Shibai 9th Season": {
@@ -8447,6 +8990,7 @@
             "54"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Yamishibai: Japanese Ghost Stories 8": {
@@ -8462,6 +9006,7 @@
             "61"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Dorohedoro": {
@@ -8479,6 +9024,7 @@
             "344"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     "  Tenkuu Shinpan": {
@@ -8494,6 +9040,7 @@
             "85"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Bem Movie: Become Human": {
@@ -8510,6 +9057,7 @@
             "35"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Zashiki Warashi no Tatami-chan": {
@@ -8524,6 +9072,7 @@
             "24"
         ],
         "status": "Đang tiến hành",
+        "episodes": 10,
         "release year": "2020"
     },
     "Kyochuu Rettou Movie": {
@@ -8537,6 +9086,7 @@
             "45"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Bem": {
@@ -8553,6 +9103,7 @@
             "196"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "KYOCHUU RETTOU": {
@@ -8569,6 +9120,7 @@
             "51"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Yamishibai: Japanese Ghost Stories 7": {
@@ -8583,6 +9135,7 @@
             "228"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2019"
     },
     "KOUTETSUJOU NO KABANERI MOVIE: UNATO KESSEN": {
@@ -8599,6 +9152,7 @@
             "644"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2019"
     },
     "Yofukashi no Uta": {
@@ -8614,6 +9168,7 @@
             "502"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Vampire in the Garden": {
@@ -8629,6 +9184,7 @@
             "100"
         ],
         "status": "Đang tiến hành",
+        "episodes": 5,
         "release year": "2022"
     },
     "Vanitas no Carte 2nd Season": {
@@ -8646,6 +9202,7 @@
             "414"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Vanitas no Carte": {
@@ -8664,6 +9221,7 @@
             "562"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Strike the Blood IV": {
@@ -8681,6 +9239,7 @@
             "343"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Vlad Love": {
@@ -8697,6 +9256,7 @@
             "45"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Noblesse": {
@@ -8713,6 +9273,7 @@
             "661"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2020"
     },
     "UQ Holder! Mahou Sensei Negima! 2 OVA": {
@@ -8729,6 +9290,7 @@
             "156"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2017"
     },
     "Strike the Blood III": {
@@ -8748,6 +9310,7 @@
             "892"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2019"
     },
     "Zoku Owarimonogatari": {
@@ -8764,6 +9327,7 @@
             "262"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2018"
     },
     "UQ Holder! Mahou Sensei Negima! 2": {
@@ -8781,6 +9345,7 @@
             "533"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Tenrou: Sirius the Jaeger": {
@@ -8798,6 +9363,7 @@
             "2005"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Devils Line": {
@@ -8816,6 +9382,7 @@
             "828"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Kekkai Sensen  Beyond (Ss2)": {
@@ -8833,6 +9400,7 @@
             "254"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Strike the Blood II": {
@@ -8852,6 +9420,7 @@
             "517"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2016"
     },
     "Kizumonogatari III: Reiketsu-hen": {
@@ -8868,6 +9437,7 @@
             "153"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Noblesse: Awakening": {
@@ -8884,6 +9454,7 @@
             "294"
         ],
         "status": "Hoàn thành",
+        "episodes": 2,
         "release year": "2016"
     },
     "Princess Resurrection Ova": {
@@ -8901,6 +9472,7 @@
             "11"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2010"
     },
     "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho": {
@@ -8918,6 +9490,7 @@
             "64"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2011"
     },
     "Owari no Seraph: Owaranai Seraph": {
@@ -8934,6 +9507,7 @@
             "108"
         ],
         "status": "Hoàn thành",
+        "episodes": 9,
         "release year": "2015"
     },
     "Owari no Seraph: Kyuuketsuki Shahar": {
@@ -8951,6 +9525,7 @@
             "127"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2016"
     },
     "Kizumonogatari II: Nekketsu-hen": {
@@ -8967,6 +9542,7 @@
             "117"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2016"
     },
     "Kishiryu Sentai Ryusoulger": {
@@ -8980,6 +9556,7 @@
             "206"
         ],
         "status": "Đang tiến hành",
+        "episodes": 48,
         "release year": "2019"
     },
     "Kamen Rider Saber": {
@@ -8993,6 +9570,7 @@
             "86"
         ],
         "status": "Hoàn thành",
+        "episodes": 47,
         "release year": "2018"
     },
     "Kamen Rider Saber: The Phoenix Swordsman and the Book of Ruin": {
@@ -9006,6 +9584,7 @@
             "16"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Kamen Rider Zero-One": {
@@ -9019,6 +9598,7 @@
             "192"
         ],
         "status": "Hoàn thành",
+        "episodes": 47,
         "release year": "2018"
     },
     "Kamen Rider Zi-O NEXT TIME: Geiz, Majesty": {
@@ -9032,6 +9612,7 @@
             "20"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Kamen Rider: Reiwa The First Generation": {
@@ -9045,6 +9626,7 @@
             "29"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Kamen Rider Zi-O: Over Quartzer": {
@@ -9058,6 +9640,7 @@
             "28"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Kamen Rider Zi-O": {
@@ -9071,6 +9654,7 @@
             "1287"
         ],
         "status": "Hoàn thành",
+        "episodes": 65,
         "release year": "2018"
     },
     "Rider Time: Shinobi": {
@@ -9084,6 +9668,7 @@
             "36"
         ],
         "status": "Đang tiến hành",
+        "episodes": 2,
         "release year": "2019"
     },
     "Rider Time: Ryuki": {
@@ -9097,6 +9682,7 @@
             "95"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2019"
     },
     "Xây Dựng Thế Giới Mới - Kamen Rider Vượt Qua-Z": {
@@ -9110,6 +9696,7 @@
             "107"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger": {
@@ -9123,6 +9710,7 @@
             "508"
         ],
         "status": "Hoàn thành",
+        "episodes": 53,
         "release year": "2018"
     },
     "Kamen Rider Build": {
@@ -9135,6 +9723,7 @@
             "1065"
         ],
         "status": "Hoàn thành",
+        "episodes": 49,
         "release year": "2017"
     },
     "Uchu Sentai Kyuranger": {
@@ -9148,6 +9737,7 @@
             "112"
         ],
         "status": "Hoàn thành",
+        "episodes": 48,
         "release year": "2017"
     },
     "Kamen Rider Den-O": {
@@ -9161,6 +9751,7 @@
             "67"
         ],
         "status": "Đang tiến hành",
+        "episodes": 3,
         "release year": "2017"
     },
     "Kamen Rider Ex-Aid": {
@@ -9174,6 +9765,7 @@
             "407"
         ],
         "status": "Hoàn thành",
+        "episodes": 45,
         "release year": "2016"
     },
     "Kamen Rider Amazon 2": {
@@ -9187,6 +9779,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2017"
     },
     "Kamen Rider Heisei generations": {
@@ -9199,6 +9792,7 @@
             "35"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Kamen Rider Amazon": {
@@ -9212,6 +9806,7 @@
             "36"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2016"
     },
     "Doubutsu Sentai Zyuohger The Movie: Dokidoki Circus Panic!": {
@@ -9225,6 +9820,7 @@
             "13"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2016"
     },
     "Kamen Rider Brave": {
@@ -9238,6 +9834,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2017"
     },
     "Samurai Angel Wars Gal Basara": {
@@ -9250,6 +9847,7 @@
             "10"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2010"
     },
     "Samurai Sentai Shinkenger The Movie : The Fateful War": {
@@ -9263,6 +9861,7 @@
             "18"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2009"
     },
     "Samurai Sentai Shinkenger": {
@@ -9276,6 +9875,7 @@
             "38"
         ],
         "status": "Hoàn thành",
+        "episodes": 49,
         "release year": "2009"
     },
     "Ressha Sentai ToQger": {
@@ -9289,6 +9889,7 @@
             "10"
         ],
         "status": "Hoàn thành",
+        "episodes": 47,
         "release year": "2014"
     },
     "ToQGer Hyper Battle DVD": {
@@ -9302,6 +9903,7 @@
             "4"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2014"
     },
     "Ressha Sentai ToQger the Movie: Galaxy Line S.O.S.": {
@@ -9315,6 +9917,7 @@
             "4"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2014"
     },
     "Ressha Sentai ToQger vs Kyoryuger: The Movie": {
@@ -9328,6 +9931,7 @@
             "9"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2015"
     },
     "Ressha Sentai ToQger Returns: Super ToQ 7gou of Dreams": {
@@ -9341,6 +9945,7 @@
             "4"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2015"
     },
     "Kamen Rider Decade": {
@@ -9354,6 +9959,7 @@
             "117"
         ],
         "status": "Hoàn thành",
+        "episodes": 31,
         "release year": "2009"
     },
     "Monsters: Ippyaku Sanjou Hiryuu Jigoku": {
@@ -9369,6 +9975,7 @@
             "37"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2024"
     },
     "Onimusha": {
@@ -9384,6 +9991,7 @@
             "12"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2023"
     },
     "Bucchigire!": {
@@ -9398,6 +10006,7 @@
             "104"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Peace Maker Kurogane": {
@@ -9415,6 +10024,7 @@
             "21"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2003"
     },
     "Bakumatsu": {
@@ -9430,6 +10040,7 @@
             "20"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Yasuke": {
@@ -9445,6 +10056,7 @@
             "45"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2021"
     },
     "Bakumatsu: Crisis": {
@@ -9460,6 +10072,7 @@
             "42"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2020"
     },
     "Kochouki: Wakaki Nobunaga": {
@@ -9476,6 +10089,7 @@
             "186"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Gintama.: Shirogane no Tamashii-hen 2": {
@@ -9494,6 +10108,7 @@
             "824"
         ],
         "status": "Hoàn thành",
+        "episodes": 28,
         "release year": "2018"
     },
     "Angolmois: Genkou Kassenki": {
@@ -9512,6 +10127,7 @@
             "715"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Gintama. Porori-hen": {
@@ -9530,6 +10146,7 @@
             "110"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2017"
     },
     "Drifters Specials": {
@@ -9549,6 +10166,7 @@
             "70"
         ],
         "status": "Hoàn thành",
+        "episodes": 2,
         "release year": "2017"
     },
     "Samurai Deeper Kyou": {
@@ -9568,6 +10186,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2002"
     },
     "Jubei Chan Ss2": {
@@ -9585,6 +10204,7 @@
             "11"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2004"
     },
     "Jubei Chan": {
@@ -9603,6 +10223,7 @@
             "11"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "1999"
     },
     "Gintama (2017)": {
@@ -9620,6 +10241,7 @@
             "182"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Mutsu Enmei Ryuu Gaiden: Shura no Toki": {
@@ -9637,6 +10259,7 @@
             "17"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2004"
     },
     "Samurai Champloo": {
@@ -9655,6 +10278,7 @@
             "61"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2004"
     },
     "Samurai Jack": {
@@ -9669,6 +10293,7 @@
             "21"
         ],
         "status": "Hoàn thành",
+        "episodes": 52,
         "release year": "2001"
     },
     "Afro Samurai Movie": {
@@ -9684,6 +10309,7 @@
             "7"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2007"
     },
     "Afro Samurai": {
@@ -9698,6 +10324,7 @@
             "34"
         ],
         "status": "Hoàn thành",
+        "episodes": 5,
         "release year": "2007"
     },
     "Soul Buster": {
@@ -9712,6 +10339,7 @@
             "25"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2016"
     },
     "Drifters": {
@@ -9731,6 +10359,7 @@
             "282"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2016"
     },
     "Gintama: Shinyaku Benizakura-hen": {
@@ -9749,6 +10378,7 @@
             "69"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2010"
     },
     "Blood of Zeus (Season 2)": {
@@ -9764,6 +10394,7 @@
             "9"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2024"
     },
     " T・P BON": {
@@ -9779,6 +10410,7 @@
             "8"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Ninja Kamui": {
@@ -9793,6 +10425,7 @@
             "304"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Metallic Rouge": {
@@ -9807,6 +10440,7 @@
             "50"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Trò Chơi Sống Còn": {
@@ -9822,6 +10456,7 @@
             "73"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Dr. Stone: New World": {
@@ -9837,6 +10472,7 @@
             "584"
         ],
         "status": "Hoàn thành",
+        "episodes": 22,
         "release year": "2023"
     },
     "Boushoku no Berserk": {
@@ -9851,6 +10487,7 @@
             "374"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "My Daemon": {
@@ -9866,6 +10503,7 @@
             "72"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "AI no Idenshi": {
@@ -9881,6 +10519,7 @@
             "41"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Thiếu Nữ Điện Khí": {
@@ -9895,6 +10534,7 @@
             "9"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Khóa Chặt Cửa Nào Suzume": {
@@ -9911,6 +10551,7 @@
             "221"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Nhất Niệm Vĩnh Hằng": {
@@ -9925,6 +10566,7 @@
             "2268"
         ],
         "status": "Đang tiến hành",
+        "episodes": 124,
         "release year": "2020"
     },
     "Già Thiên": {
@@ -9937,9 +10579,10 @@
         ],
         "rating": [
             "8.6",
-            "1356"
+            "1357"
         ],
         "status": "Đang tiến hành",
+        "episodes": 76,
         "release year": "2023"
     },
     "Võ Thần Chúa Tể": {
@@ -9956,6 +10599,7 @@
             "1121"
         ],
         "status": "Đang tiến hành",
+        "episodes": 480,
         "release year": "2020"
     },
     "Vạn Giới Độc Tôn": {
@@ -9971,6 +10615,7 @@
             "552"
         ],
         "status": "Đang tiến hành",
+        "episodes": 272,
         "release year": "2021"
     },
     "Luyện Khí Mười Vạn Năm": {
@@ -9985,6 +10630,7 @@
             "699"
         ],
         "status": "Đang tiến hành",
+        "episodes": 169,
         "release year": "2023"
     },
     "Thôn Phệ Tinh Không": {
@@ -9999,6 +10645,7 @@
             "4519"
         ],
         "status": "Đang tiến hành",
+        "episodes": 138,
         "release year": "2021"
     },
     "Nghịch Thiên Chí Tôn": {
@@ -10013,6 +10660,7 @@
             "584"
         ],
         "status": "Đang tiến hành",
+        "episodes": 343,
         "release year": "2021"
     },
     "Vô Thượng Thần Đế": {
@@ -10028,6 +10676,7 @@
             "749"
         ],
         "status": "Đang tiến hành",
+        "episodes": 421,
         "release year": "2020"
     },
     "Độc Bộ Tiêu Dao": {
@@ -10044,6 +10693,7 @@
             "664"
         ],
         "status": "Đang tiến hành",
+        "episodes": 454,
         "release year": "2020"
     },
     "Tiên Võ Truyện": {
@@ -10058,6 +10708,7 @@
             "435"
         ],
         "status": "Đang tiến hành",
+        "episodes": 80,
         "release year": "2023"
     },
     "Tiên Nghịch": {
@@ -10069,9 +10720,10 @@
         ],
         "rating": [
             "9.3",
-            "1234"
+            "1235"
         ],
         "status": "Đang tiến hành",
+        "episodes": 55,
         "release year": "2023"
     },
     "Thiếu Niên Bạch Mã Túy Xuân Phong Phần 2": {
@@ -10085,6 +10737,7 @@
             "3"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     " Thiếu Niên Bạch Mã Túy Xuân Phong": {
@@ -10097,6 +10750,7 @@
             "2"
         ],
         "status": "Hoàn thành",
+        "episodes": 20,
         "release year": "2023"
     },
     "Đấu Phá Thương Khung Phần 5": {
@@ -10107,9 +10761,10 @@
         ],
         "rating": [
             "9.0",
-            "2455"
+            "2456"
         ],
         "status": "Đang tiến hành",
+        "episodes": 113,
         "release year": "2022"
     },
     "Bách Luyện Thành Thần": {
@@ -10125,6 +10780,7 @@
             "649"
         ],
         "status": "Đang tiến hành",
+        "episodes": 95,
         "release year": "2022"
     },
     "Thần Võ Thiên Tôn": {
@@ -10140,6 +10796,7 @@
             "77"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Phàm Nhân Tu Tiên": {
@@ -10154,6 +10811,7 @@
             "1993"
         ],
         "status": "Đang tiến hành",
+        "episodes": 120,
         "release year": "2020"
     },
     "Thần Mộ": {
@@ -10169,6 +10827,7 @@
             "548"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2022"
     },
     "Đấu La Đại Lục 2 Tuyệt Thế Đường Môn": {
@@ -10183,6 +10842,7 @@
             "724"
         ],
         "status": "Đang tiến hành",
+        "episodes": 67,
         "release year": "2023"
     },
     "Vĩnh Sinh ": {
@@ -10198,6 +10858,7 @@
             "620"
         ],
         "status": "Đang tiến hành",
+        "episodes": 53,
         "release year": "2022"
     },
     "Thế Giới Hoàn Mỹ": {
@@ -10213,6 +10874,7 @@
             "2525"
         ],
         "status": "Đang tiến hành",
+        "episodes": 181,
         "release year": "2021"
     },
     "Thần Ấn Vương Tọa": {
@@ -10227,6 +10889,7 @@
             "1591"
         ],
         "status": "Đang tiến hành",
+        "episodes": 125,
         "release year": "2022"
     },
     "Sư Huynh À Sư Huynh": {
@@ -10242,6 +10905,7 @@
             "780"
         ],
         "status": "Đang tiến hành",
+        "episodes": 55,
         "release year": "2023"
     },
     "Trảm Thần": {
@@ -10254,6 +10918,7 @@
             "261"
         ],
         "status": "Đang tiến hành",
+        "episodes": 9,
         "release year": "2024"
     },
     "Kiếm Lai": {
@@ -10268,6 +10933,7 @@
             "420"
         ],
         "status": "Đang tiến hành",
+        "episodes": 8,
         "release year": "2024"
     },
     "Thế Giới Hoàn Mỹ OVA Hỏa chi Hôi Tẫn": {
@@ -10278,10 +10944,11 @@
             "Huyền ảo"
         ],
         "rating": [
-            "9.2",
-            "73"
+            "9.3",
+            "74"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2024"
     },
     "Toàn Chức Pháp Sư OVA Lời uỷ thác thần bí": {
@@ -10296,6 +10963,7 @@
             "33"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2024"
     },
     "Nguyên Tôn": {
@@ -10310,6 +10978,7 @@
             "201"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2024"
     },
     "Yêu Thần Ký": {
@@ -10324,6 +10993,7 @@
             "3864"
         ],
         "status": "Hoàn thành",
+        "episodes": 380,
         "release year": "2017"
     },
     "Huyễn Sủng Sư": {
@@ -10338,6 +11008,7 @@
             "157"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2024"
     },
     "Tru Tiên": {
@@ -10350,9 +11021,10 @@
         ],
         "rating": [
             "8.9",
-            "1088"
+            "1089"
         ],
         "status": "Đang tiến hành",
+        "episodes": 52,
         "release year": "2022"
     },
     "Quyến Tư Lượng": {
@@ -10367,6 +11039,7 @@
             "390"
         ],
         "status": "Hoàn thành",
+        "episodes": 32,
         "release year": "2021"
     },
     "Nhất Thế Chi Tôn": {
@@ -10381,6 +11054,7 @@
             "37"
         ],
         "status": "Đang tiến hành",
+        "episodes": 16,
         "release year": "2024"
     },
     "Đại Chúa Tể": {
@@ -10396,6 +11070,7 @@
             "437"
         ],
         "status": "Đang tiến hành",
+        "episodes": 52,
         "release year": "2023"
     },
     "Định Hải Phù Sinh Lục": {
@@ -10411,6 +11086,7 @@
             "22"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Thập Phương Võ Thánh": {
@@ -10427,6 +11103,7 @@
             "61"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Võ Ánh Tam Thiên Đạo": {
@@ -10441,6 +11118,7 @@
             "299"
         ],
         "status": "Hoàn thành",
+        "episodes": 60,
         "release year": "2022"
     },
     "Luyện Khí Luyện Đến 3000 Năm": {
@@ -10458,6 +11136,7 @@
             "45"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Ngạo Thế Cửu Trùng Thiên": {
@@ -10474,6 +11153,7 @@
             "109"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Vũ Động Càn Khôn": {
@@ -10489,6 +11169,7 @@
             "1360"
         ],
         "status": "Đang tiến hành",
+        "episodes": 54,
         "release year": "2019"
     },
     "Tu La Võ Thần": {
@@ -10503,6 +11184,7 @@
             "263"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Chân Dương Võ Thần": {
@@ -10517,6 +11199,7 @@
             "124"
         ],
         "status": "Đang tiến hành",
+        "episodes": 14,
         "release year": "2023"
     },
     "Thiên Quan Tứ Phúc": {
@@ -10531,6 +11214,7 @@
             "59"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Bách Luyện Phi Thăng Lục": {
@@ -10545,6 +11229,7 @@
             "121"
         ],
         "status": "Đang tiến hành",
+        "episodes": 57,
         "release year": "2023"
     },
     "Bộ Tinh Ti: Nguyên Khởi": {
@@ -10559,6 +11244,7 @@
             "45"
         ],
         "status": "Hoàn thành",
+        "episodes": 18,
         "release year": "2024"
     },
     "Thiếu Niên Ca Hành": {
@@ -10574,6 +11260,7 @@
             "823"
         ],
         "status": "Đang tiến hành",
+        "episodes": 87,
         "release year": "2018"
     },
     "Vương Giả Vinh Diệu: Vinh Diệu chi Chương": {
@@ -10589,6 +11276,7 @@
             "90"
         ],
         "status": "Hoàn thành",
+        "episodes": 4,
         "release year": "2024"
     },
     "Họa Giang Hồ Chi Thiên Cang": {
@@ -10600,9 +11288,10 @@
         ],
         "rating": [
             "9.8",
-            "346"
+            "347"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2023"
     },
     "Ám Hà Truyện": {
@@ -10617,6 +11306,7 @@
             "108"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Tiêu Nhân": {
@@ -10631,6 +11321,7 @@
             "176"
         ],
         "status": "Hoàn thành",
+        "episodes": 15,
         "release year": "2023"
     },
     "Kiếm Vực Phong Vân": {
@@ -10645,6 +11336,7 @@
             "262"
         ],
         "status": "Hoàn thành",
+        "episodes": 92,
         "release year": "2022"
     },
     "Đan Đạo Tông Sư": {
@@ -10659,6 +11351,7 @@
             "122"
         ],
         "status": "Đang tiến hành",
+        "episodes": 40,
         "release year": "2023"
     },
     "Họa Giang Hồ chi Bất Lương Nhân Phần 6": {
@@ -10673,6 +11366,7 @@
             "843"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Cửu Châu Phiêu Miểu Lục": {
@@ -10686,6 +11380,7 @@
             "136"
         ],
         "status": "Đang tiến hành",
+        "episodes": 15,
         "release year": "2023"
     },
     "Vạn Cổ Kiếm Thần 3D": {
@@ -10703,6 +11398,7 @@
             "154"
         ],
         "status": "Đang tiến hành",
+        "episodes": 26,
         "release year": "2022"
     },
     "Tuyệt Đại Song Kiều": {
@@ -10719,6 +11415,7 @@
             "163"
         ],
         "status": "Đang tiến hành",
+        "episodes": 18,
         "release year": "2022"
     },
     "Tinh Võ Thần Quyết": {
@@ -10733,6 +11430,7 @@
             "126"
         ],
         "status": "Đang tiến hành",
+        "episodes": 80,
         "release year": "2021"
     },
     "Kiếm Đạo Đệ Nhất Tiên": {
@@ -10748,6 +11446,7 @@
             "147"
         ],
         "status": "Hoàn thành",
+        "episodes": 20,
         "release year": "2022"
     },
     "Tầm Kiếm": {
@@ -10763,6 +11462,7 @@
             "105"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Tuyết Ưng Lĩnh Chủ Phần 3": {
@@ -10778,6 +11478,7 @@
             "397"
         ],
         "status": "Đang tiến hành",
+        "episodes": 26,
         "release year": "2021"
     },
     "Đắc Ý Nhất Nhân Gian": {
@@ -10792,6 +11493,7 @@
             "200"
         ],
         "status": "Đang tiến hành",
+        "episodes": 60,
         "release year": "2021"
     },
     "Hồi Minh: Phong Hỏa Tam Nguyệt": {
@@ -10806,6 +11508,7 @@
             "128"
         ],
         "status": "Đang tiến hành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Nghịch Thiên Tà Thần": {
@@ -10820,6 +11523,7 @@
             "359"
         ],
         "status": "Hoàn thành",
+        "episodes": 30,
         "release year": "2023"
     },
     "Kage no Jitsuryokusha ni Naritakute! 2nd Season": {
@@ -10837,6 +11541,7 @@
             "740"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Người Đại Diện Thời Gian 2": {
@@ -10852,6 +11557,7 @@
             "48"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Người Đại Diện Thời Gian": {
@@ -10867,6 +11573,7 @@
             "33"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Ta Nhặt Được Thuộc Tính Đầy Đất": {
@@ -10883,6 +11590,7 @@
             "145"
         ],
         "status": "Đang tiến hành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Thế Giới Vô Hạn": {
@@ -10898,6 +11606,7 @@
             "213"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2022"
     },
     "Trường Dạ Khai Thác Giả": {
@@ -10913,6 +11622,7 @@
             "156"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2022"
     },
     "Vạn Giới Thần Chủ": {
@@ -10928,6 +11638,7 @@
             "650"
         ],
         "status": "Đang tiến hành",
+        "episodes": 296,
         "release year": "2019"
     },
     "Thần Cấp Long Vệ": {
@@ -10943,6 +11654,7 @@
             "171"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2022"
     },
     "Nguyên Long (Phần 2)": {
@@ -10959,6 +11671,7 @@
             "143"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2021"
     },
     "Nguyên Long (Phần 1)": {
@@ -10976,6 +11689,7 @@
             "133"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2020"
     },
     "Thủ Tịch Ngự Linh Sư": {
@@ -10993,6 +11707,7 @@
             "166"
         ],
         "status": "Hoàn thành",
+        "episodes": 100,
         "release year": "2020"
     },
     "Manh Thê Thực Thần": {
@@ -11006,6 +11721,7 @@
             "266"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Đấu Phá Thương Khung Bản Đặc Biệt ": {
@@ -11021,6 +11737,7 @@
             "513"
         ],
         "status": "Hoàn thành",
+        "episodes": 2,
         "release year": "2017"
     },
     "Phản Diện Tái Sinh": {
@@ -11034,6 +11751,7 @@
             "96"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2024"
     },
     "Linh Kiếm Tôn": {
@@ -11048,6 +11766,7 @@
             "925"
         ],
         "status": "Đang tiến hành",
+        "episodes": 337,
         "release year": "2019"
     },
     "Ma Đạo Tổ Sư": {
@@ -11062,6 +11781,7 @@
             "2358"
         ],
         "status": "Hoàn thành",
+        "episodes": 35,
         "release year": "2018"
     },
     "Vạn Giới Pháp Thần": {
@@ -11077,6 +11797,7 @@
             "156"
         ],
         "status": "Hoàn thành",
+        "episodes": 54,
         "release year": "2020"
     },
     "Sơn Hà Kiếm Tâm": {
@@ -11095,6 +11816,7 @@
             "126"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2021"
     },
     "Thương Nguyên Đồ": {
@@ -11108,6 +11830,7 @@
             "911"
         ],
         "status": "Đang tiến hành",
+        "episodes": 30,
         "release year": "2023"
     },
     "Em Đến Muộn Trong Cuộc Đời Chị": {
@@ -11121,6 +11844,7 @@
             "135"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Thiên Quan Tứ Phúc (Phần 2)": {
@@ -11135,6 +11859,7 @@
             "98"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Phong Tư Vật Ngữ": {
@@ -11151,6 +11876,7 @@
             "41"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2021"
     },
     "Xuân Thu Phong Thần": {
@@ -11165,6 +11891,7 @@
             "114"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2021"
     },
     "Lưu Tinh Huyễn Kiếm": {
@@ -11182,6 +11909,7 @@
             "67"
         ],
         "status": "Hoàn thành",
+        "episodes": 61,
         "release year": "2021"
     },
     "Hồ Yêu Tiểu Hồng Nương": {
@@ -11196,6 +11924,7 @@
             "857"
         ],
         "status": "Hoàn thành",
+        "episodes": 145,
         "release year": "2016"
     },
     "Thư Linh Ký": {
@@ -11210,6 +11939,7 @@
             "172"
         ],
         "status": "Hoàn thành",
+        "episodes": 71,
         "release year": "2019"
     },
     "Vạn Giới Xuân Thu": {
@@ -11226,6 +11956,7 @@
             "121"
         ],
         "status": "Hoàn thành",
+        "episodes": 56,
         "release year": "2020"
     },
     "Tôi Là Giang Tiểu Bạch": {
@@ -11239,6 +11970,7 @@
             "58"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Tây Hành Kỷ phần 5": {
@@ -11253,6 +11985,7 @@
             "146"
         ],
         "status": "Đang tiến hành",
+        "episodes": 45,
         "release year": "2023"
     },
     "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.": {
@@ -11268,6 +12001,7 @@
             "143"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Chiyu Mahou no Machigatta Tsukaikata": {
@@ -11284,6 +12018,7 @@
             "295"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2024"
     },
     "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen": {
@@ -11298,6 +12033,7 @@
             "187"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Ishura": {
@@ -11313,6 +12049,7 @@
             "88"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2024"
     },
     "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu": {
@@ -11328,6 +12065,7 @@
             "66"
         ],
         "status": "Đang tiến hành",
+        "episodes": 11,
         "release year": "2024"
     },
     "Ác Ma Pháp Tắc": {
@@ -11342,6 +12080,7 @@
             "282"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2023"
     },
     "Saihate no Paladin: Tetsusabi no Yama no Ou": {
@@ -11358,6 +12097,7 @@
             "90"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Kaminaki Sekai no Kamisama Katsudou": {
@@ -11374,6 +12114,7 @@
             "322"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Đấu La Đại Lục": {
@@ -11388,6 +12129,7 @@
             "7076"
         ],
         "status": "Hoàn thành",
+        "episodes": 264,
         "release year": "2018"
     },
     "Thần Lan Kỳ Vực Vô Song Châu": {
@@ -11402,6 +12144,7 @@
             "290"
         ],
         "status": "Đang tiến hành",
+        "episodes": 30,
         "release year": "2022"
     },
     "Kage no Jitsuryokusha ni Naritakute!": {
@@ -11418,6 +12161,7 @@
             "1616"
         ],
         "status": "Hoàn thành",
+        "episodes": 20,
         "release year": "2022"
     },
     "Bách Yêu Phổ Phần 3": {
@@ -11432,6 +12176,7 @@
             "14"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Đại Vương Tha Mạng Phần 2": {
@@ -11446,6 +12191,7 @@
             "256"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2023"
     },
     "Hitori no Shita: The Outcast 4nd Season": {
@@ -11461,6 +12207,7 @@
             "47"
         ],
         "status": "Hoàn thành",
+        "episodes": 9,
         "release year": "2022"
     },
     "Triệu Hồi Sư Cuối Cùng": {
@@ -11475,6 +12222,7 @@
             "171"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Vết Nứt Thời Không": {
@@ -11490,6 +12238,7 @@
             "124"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2022"
     },
     "Đại Vương Tha Mạng": {
@@ -11503,6 +12252,7 @@
             "768"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Nhật Ký Thường Ngày Của Tiên Vương phần 2": {
@@ -11517,6 +12267,7 @@
             "620"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Tây Du Ký: Tái Thế Yêu Vương": {
@@ -11531,6 +12282,7 @@
             "45"
         ],
         "status": "Đang tiến hành",
+        "episodes": 1,
         "release year": "2021"
     },
     "TIỂU LỤC VÀ TIỂU LAM": {
@@ -11544,6 +12296,7 @@
             "702"
         ],
         "status": "Đang tiến hành",
+        "episodes": 15,
         "release year": "2018"
     },
     "Võ Lâm 3 : Thẩm Kiếm Tâm": {
@@ -11558,6 +12311,7 @@
             "691"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Đột Biến Anh Hùng": {
@@ -11572,6 +12326,7 @@
             "86"
         ],
         "status": "Đang tiến hành",
+        "episodes": 2,
         "release year": "2018"
     },
     "Thiên Bảo Phục Yêu Lục": {
@@ -11585,6 +12340,7 @@
             "123"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2020"
     },
     "Đế Vương Công Lược": {
@@ -11598,6 +12354,7 @@
             "125"
         ],
         "status": "Hoàn thành",
+        "episodes": 20,
         "release year": "2018"
     },
     "Linh Khế 2": {
@@ -11611,6 +12368,7 @@
             "154"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Cuồng Vương (OVA Tây Hành Kỷ)": {
@@ -11625,6 +12383,7 @@
             "61"
         ],
         "status": "Đang tiến hành",
+        "episodes": 9,
         "release year": "2024"
     },
     "Vụ Sơn Ngũ Hành": {
@@ -11640,6 +12399,7 @@
             "194"
         ],
         "status": "Hoàn thành",
+        "episodes": 7,
         "release year": "2021"
     },
     "Vũ Canh Kỷ phần 4": {
@@ -11654,6 +12414,7 @@
             "235"
         ],
         "status": "Đang tiến hành",
+        "episodes": 42,
         "release year": "2021"
     },
     "Vạn Giới Tiên Tung": {
@@ -11669,6 +12430,7 @@
             "1431"
         ],
         "status": "Đang tiến hành",
+        "episodes": 340,
         "release year": "2018"
     },
     "Hitori no Shita: The Outcast 3nd Season": {
@@ -11684,6 +12446,7 @@
             "37"
         ],
         "status": "Hoàn thành",
+        "episodes": 7,
         "release year": "2021"
     },
     "Quân Hữu Vân": {
@@ -11699,6 +12462,7 @@
             "389"
         ],
         "status": "Đang tiến hành",
+        "episodes": 24,
         "release year": "2022"
     },
     "Tử Xuyên": {
@@ -11713,6 +12477,7 @@
             "475"
         ],
         "status": "Hoàn thành",
+        "episodes": 42,
         "release year": "2021"
     },
     "Họa Giang Hồ chi Bất Lương Nhân Phần 5": {
@@ -11727,6 +12492,7 @@
             "391"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Phong Khởi Lạc Dương: Thiếu Niên Thần Cơ": {
@@ -11742,6 +12508,7 @@
             "107"
         ],
         "status": "Đang tiến hành",
+        "episodes": 16,
         "release year": "2021"
     },
     "Thục Sơn Kỳ Tiên Lục": {
@@ -11757,6 +12524,7 @@
             "102"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Tử Xuyên - OVA": {
@@ -11773,6 +12541,7 @@
             "74"
         ],
         "status": "Đang tiến hành",
+        "episodes": 3,
         "release year": "2021"
     },
     "Đấu Phá Thương Khung: Ước Hẹn Ba Năm": {
@@ -11784,9 +12553,10 @@
         ],
         "rating": [
             "9.7",
-            "2384"
+            "2385"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Gối Đao Lên Hát": {
@@ -11801,6 +12571,7 @@
             "61"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Tần Thời Minh Nguyệt phần 6: Thương Hải Hoành Lưu": {
@@ -11815,6 +12586,7 @@
             "81"
         ],
         "status": "Đang tiến hành",
+        "episodes": 25,
         "release year": "2020"
     },
     "Quan Hải Sách": {
@@ -11829,6 +12601,7 @@
             "604"
         ],
         "status": "Đang tiến hành",
+        "episodes": 3,
         "release year": "2018"
     },
     "Ayakashi Triangle": {
@@ -11846,6 +12619,7 @@
             "149"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2023"
     },
     "Inu ni Nattara Suki na Hito ni Hirowareta": {
@@ -11861,6 +12635,7 @@
             "178"
         ],
         "status": "Hoàn thành",
+        "episodes": 14,
         "release year": "2023"
     },
     "Isekai Meikyuu de Harem wo": {
@@ -11878,6 +12653,7 @@
             "407"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2022"
     },
     "Trinity Seven Movie 2: Tenkuu Toshokan to Shinku no Maou": {
@@ -11898,6 +12674,7 @@
             "109"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Monster Musume no Oishasan": {
@@ -11914,6 +12691,7 @@
             "147"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season": {
@@ -11928,6 +12706,7 @@
             "1015"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2021"
     },
     "Getsuyoubi no Tawawa 2": {
@@ -11943,6 +12722,7 @@
             "115"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Ganbare Douki-chan": {
@@ -11958,6 +12738,7 @@
             "133"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Mayoi Neko Overrun! Specials": {
@@ -11972,6 +12753,7 @@
             "24"
         ],
         "status": "Hoàn thành",
+        "episodes": 6,
         "release year": "2010"
     },
     "Mayo Chiki!": {
@@ -11988,6 +12770,7 @@
             "728"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2011"
     },
     "Boku Wa Tomodachi Ga Sukunai": {
@@ -12006,6 +12789,7 @@
             "536"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2011"
     },
     "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA": {
@@ -12023,6 +12807,7 @@
             "267"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2021"
     },
     "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω": {
@@ -12039,6 +12824,7 @@
             "743"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2021"
     },
     "Ore dake Haireru Kakushi Dungeon": {
@@ -12056,6 +12842,7 @@
             "899"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "Mushoku Tensei: Jobless Reincarnation": {
@@ -12074,6 +12861,7 @@
             "896"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2021"
     },
     "Dakara Boku Wa, H Ga Dekinai": {
@@ -12090,6 +12878,7 @@
             "500"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2012"
     },
     "Saenai Heroine no Sodatekata Fine": {
@@ -12107,6 +12896,7 @@
             "540"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Uzaki-chan Wants to Hang Out!": {
@@ -12122,6 +12912,7 @@
             "865"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Tensei shitara Slime Datta Ken 2nd Season Part 2": {
@@ -12139,6 +12930,7 @@
             "1496"
         ],
         "status": "Hoàn thành",
+        "episodes": 14,
         "release year": "2021"
     },
     "Obey Me!": {
@@ -12153,6 +12945,7 @@
             "39"
         ],
         "status": "Đang tiến hành",
+        "episodes": 6,
         "release year": "2021"
     },
     "Heion Sedai no Idaten-tachi": {
@@ -12170,6 +12963,7 @@
             "80"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2021"
     },
     "Mairimashita! Iruma-kun 2nd Season": {
@@ -12188,6 +12982,7 @@
             "675"
         ],
         "status": "Hoàn thành",
+        "episodes": 21,
         "release year": "2021"
     },
     "Kimetsu no Yaiba : Mugen Ressha-hen": {
@@ -12206,6 +13001,7 @@
             "871"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Kemono Jihen": {
@@ -12223,6 +13019,7 @@
             "376"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2021"
     },
     "GEGEGE NO KITAROU": {
@@ -12239,6 +13036,7 @@
             "65"
         ],
         "status": "Hoàn thành",
+        "episodes": 97,
         "release year": "2018"
     },
     "Mairimashita! Iruma-kun": {
@@ -12258,6 +13056,7 @@
             "1152"
         ],
         "status": "Hoàn thành",
+        "episodes": 23,
         "release year": "2019"
     },
     "Kyokou Suiri": {
@@ -12276,6 +13075,7 @@
             "788"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2020"
     },
     "Fairy Gone 2nd Season": {
@@ -12292,6 +13092,7 @@
             "70"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Kimetsu no Yaiba": {
@@ -12309,6 +13110,7 @@
             "4747"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2019"
     },
     "Dororo": {
@@ -12327,6 +13129,7 @@
             "3106"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2019"
     },
     "Fairy Gone": {
@@ -12343,6 +13146,7 @@
             "303"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Concrete Revolutio: Choujin Gensou - The Last Song": {
@@ -12362,6 +13166,7 @@
             "51"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2016"
     },
     "Manaria Friends": {
@@ -12379,6 +13184,7 @@
             "234"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2019"
     },
     "Ao no Exorcist: Kyoto Fujouou-hen": {
@@ -12396,6 +13202,7 @@
             "426"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Beelzebub-jou no Okinimesu mama.": {
@@ -12412,6 +13219,7 @@
             "953"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Phantom in the Twilight": {
@@ -12427,6 +13235,7 @@
             "650"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2018"
     },
     "Beelzebub OVA": {
@@ -12445,6 +13254,7 @@
             "244"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2011"
     },
     "Kakuriyo no Yadomeshi": {
@@ -12463,6 +13273,7 @@
             "1560"
         ],
         "status": "Hoàn thành",
+        "episodes": 26,
         "release year": "2018"
     },
     "Cardfight!! Vanguard": {
@@ -12479,6 +13290,7 @@
             "81"
         ],
         "status": "Hoàn thành",
+        "episodes": 65,
         "release year": "2011"
     },
     "Tháng Tư Là Lời Nói Dối Của Em (Live Action)": {
@@ -12492,6 +13304,7 @@
             "95"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2016"
     },
     "One Piece (Live Action)": {
@@ -12508,6 +13321,7 @@
             "57"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2023"
     },
     "Tokyo Ghoul S (Live Action 2019)": {
@@ -12522,6 +13336,7 @@
             "24"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Mình Muốn Ăn Tụy Của Cậu": {
@@ -12535,6 +13350,7 @@
             "158"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Boku wa Tomodachi ga Sukunai [Live Action]": {
@@ -12547,6 +13363,7 @@
             "281"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2014"
     },
     "Thị trấn nơi chỉ mình tôi lưu lạc": {
@@ -12559,6 +13376,7 @@
             "227"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Saiki Kusuo No Sainan Live Action": {
@@ -12571,6 +13389,7 @@
             "215"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "AJIN: DEMI-HUMAN": {
@@ -12583,6 +13402,7 @@
             "51"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2017"
     },
     "Kakegurui  Live Action": {
@@ -12600,6 +13420,7 @@
             "92"
         ],
         "status": "Đang tiến hành",
+        "episodes": 9,
         "release year": "2018"
     },
     "Fullmetal Alchemist Live Action": {
@@ -12613,6 +13434,7 @@
             "31"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "ReLife Live Action": {
@@ -12625,6 +13447,7 @@
             "77"
         ],
         "status": "Hoàn thành",
+        "episodes": 4,
         "release year": "2018"
     },
     "Gantz (Live Action)": {
@@ -12638,6 +13461,7 @@
             "30"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2004"
     },
     "Kiseiju Ký Sinh Trùng ": {
@@ -12650,6 +13474,7 @@
             "67"
         ],
         "status": "Hoàn thành",
+        "episodes": 2,
         "release year": "2014"
     },
     "Gintama: Mitsuba hen": {
@@ -12662,6 +13487,7 @@
             "41"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2017"
     },
     "Another (Live Action)": {
@@ -12674,6 +13500,7 @@
             "49"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2012"
     },
     "Yamada kun to Nananin no Majo (Live Action)": {
@@ -12687,6 +13514,7 @@
             "124"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2013"
     },
     "Bartender Live Action": {
@@ -12699,6 +13527,7 @@
             "11"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2011"
     },
     "Anohana (Live Action)": {
@@ -12712,6 +13541,7 @@
             "26"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2015"
     },
     "Kuzu no Honkai Live Action": {
@@ -12725,6 +13555,7 @@
             "33"
         ],
         "status": "Đang tiến hành",
+        "episodes": 12,
         "release year": "2017"
     },
     "Ouran Highschool Host Club Live": {
@@ -12737,6 +13568,7 @@
             "12"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2014"
     },
     "Ansatsu Kyoshitsu -Sotsugyou Hen- Live Action (2016)": {
@@ -12750,6 +13582,7 @@
             "31"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2016"
     },
     "Bức Tường Hoa": {
@@ -12763,6 +13596,7 @@
             "6"
         ],
         "status": "Hoàn thành",
+        "episodes": 10,
         "release year": "2007"
     },
     "Death Note: New Generation": {
@@ -12776,6 +13610,7 @@
             "23"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2016"
     },
     "Death Note 2015 (Live Action)": {
@@ -12789,6 +13624,7 @@
             "31"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2015"
     },
     "Death Note Live Action": {
@@ -12802,6 +13638,7 @@
             "32"
         ],
         "status": "Hoàn thành",
+        "episodes": 3,
         "release year": "2006"
     },
     "Majo No Takkyubin Live Action": {
@@ -12814,6 +13651,7 @@
             "8"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2014"
     },
     "Samurai High School": {
@@ -12826,6 +13664,7 @@
             "12"
         ],
         "status": "Hoàn thành",
+        "episodes": 9,
         "release year": "2009"
     },
     "Nodame Cantabile [Live Action]": {
@@ -12838,6 +13677,7 @@
             "10"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2006"
     },
     "H2 (Live Action)": {
@@ -12851,6 +13691,7 @@
             "3"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2005"
     },
     "xxxHolic (2013) ": {
@@ -12864,6 +13705,7 @@
             "14"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2013"
     },
     "Psycho-Pass 3: First Inspector": {
@@ -12879,6 +13721,7 @@
             "13"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2020"
     },
     "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna": {
@@ -12891,9 +13734,10 @@
         ],
         "rating": [
             "9.6",
-            "198"
+            "199"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2019"
     },
     "Babylon": {
@@ -12907,6 +13751,7 @@
             "247"
         ],
         "status": "Hoàn thành",
+        "episodes": 12,
         "release year": "2019"
     },
     "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow": {
@@ -12923,6 +13768,7 @@
             "444"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2018"
     },
     "Steins;Gate 0": {
@@ -12937,6 +13783,7 @@
             "1407"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2018"
     },
     "Shigofumi: Stories of Last Letter": {
@@ -12953,6 +13800,7 @@
             "69"
         ],
         "status": "Hoàn thành",
+        "episodes": 13,
         "release year": "2008"
     },
     "Angels of Death": {
@@ -12971,6 +13819,7 @@
             "6596"
         ],
         "status": "Hoàn thành",
+        "episodes": 16,
         "release year": "2018"
     },
     "Mouryou no Hako": {
@@ -12987,6 +13836,7 @@
             "46"
         ],
         "status": "Hoàn thành",
+        "episodes": 14,
         "release year": "2008"
     },
     "Another: The Other - Inga": {
@@ -13002,6 +13852,7 @@
             "72"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2012"
     },
     "Kara no Kyoukai Remix: Gate of Seventh Heaven": {
@@ -13019,6 +13870,7 @@
             "44"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2009"
     },
     "Kara no Kyoukai 1: Fukan Fuukei": {
@@ -13035,6 +13887,7 @@
             "104"
         ],
         "status": "Hoàn thành",
+        "episodes": 8,
         "release year": "2007"
     },
     "Kara no Kyoukai: Mirai Fukuin": {
@@ -13051,6 +13904,7 @@
             "50"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2013"
     },
     "Golgo 13": {
@@ -13064,10 +13918,11 @@
             "Thriller"
         ],
         "rating": [
-            "8.3",
-            "24"
+            "8.4",
+            "25"
         ],
         "status": "Hoàn thành",
+        "episodes": 50,
         "release year": "2008"
     },
     "Mahou Shoujo Madoka Magica Movie 2: Eien no Monogatari": {
@@ -13083,6 +13938,7 @@
             "24"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2012"
     },
     "Mahou Shoujo Madoka Magika Movie 1: Hajimari No Monogatari": {
@@ -13098,6 +13954,7 @@
             "30"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2012"
     },
     "Blue Literature": {
@@ -13115,6 +13972,7 @@
             "23"
         ],
         "status": "Hoàn thành",
+        "episodes": 11,
         "release year": "2009"
     },
     "Paprika 2006": {
@@ -13132,6 +13990,7 @@
             "14"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2006"
     },
     "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero": {
@@ -13146,6 +14005,7 @@
             "120"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2015"
     },
     "Steins;Gate: Fuka Ryouiki No Déjà Vu": {
@@ -13160,6 +14020,7 @@
             "225"
         ],
         "status": "Hoàn thành",
+        "episodes": 0,
         "release year": "2013"
     },
     "Rainbow": {
@@ -13176,6 +14037,7 @@
             "60"
         ],
         "status": "Hoàn thành",
+        "episodes": 25,
         "release year": "2010"
     },
     "Shiki": {
@@ -13192,6 +14054,7 @@
             "109"
         ],
         "status": "Hoàn thành",
+        "episodes": 24,
         "release year": "2010"
     },
     "Under the Dog": {
@@ -13207,6 +14070,7 @@
             "16"
         ],
         "status": "Hoàn thành",
+        "episodes": 1,
         "release year": "2016"
     },
     "Dãy Số Đầu Tiên": {
@@ -13221,6 +14085,7 @@
             "245"
         ],
         "status": "Đang tiến hành",
+        "episodes": 16,
         "release year": "2023"
     },
     "Tinh Vực Bốn Vạn Năm": {
@@ -13236,6 +14101,7 @@
             "552"
         ],
         "status": "Đang tiến hành",
+        "episodes": 16,
         "release year": "2022"
     }
 }

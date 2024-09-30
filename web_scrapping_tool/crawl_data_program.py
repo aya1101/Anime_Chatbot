@@ -154,7 +154,7 @@ def json_to_csv(json_filename, csv_filename):
 
     df.to_csv(csv_filename + '.csv', encoding='utf-8', index=False)
 
-all_soups = fetch_pages(1, 150)
+all_soups = fetch_pages(1, 140)
 
 all_links = []
 for soup in all_soups:

@@ -9,7 +9,6 @@ The anime data set (which was saved in data_movies.json and movies_data.csv) wer
   * [Cao N. M. Hoang](https://github.com/MH2425) 
   * [Do M. Quang](https://github.com/mquangdo)
   * [Nguyen T. Trang](https://github.com/aya1101)
-and all of us are students at the Hanoi University of Science - HUS
 
 The data set was collected through the animehay.tv website during September 24th, 2024 through September 30th, 2024. 
 

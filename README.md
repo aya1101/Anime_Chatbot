@@ -2,11 +2,11 @@
 The Film Recommendation System is designed to help users discover new movies based on their preferences. By leveraging collaborative filtering and content-based filtering techniques, the system provides personalized movie suggestions, enhancing the viewing experience.
 
 # ACKNOWLEDGEMENT
-====================================================================
+## Wrapper
 All thanks to our outstanding [Le B. Minh] for suggested and guides us to complete this microscopic projects.
 
 # Anime Data set
-====================================================================
+## Wrapper
 The anime data set (which was saved in data_movies.json and movies_data.csv) were scrapped by 3 contributors:
   * [Cao N. M. Hoang](https://github.com/MH2425) 
   * [Do M. Quang](https://github.com/mquangdo)

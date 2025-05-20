@@ -1,0 +1,9 @@
+langchain==0.1.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+mysql-connector-python==8.0.33
+pandas==2.1.0
+python-dotenv==1.0.0
+huggingface-hub==0.19.4
+torch==2.1.0
+transformers==4.35.0 

@@ -8,10 +8,9 @@ if sys.stdout.encoding != 'utf-8':
 
 import pandas as pd
 import mysql.connector
-from sklearn.metrics.pairwise import cosine_similarity # Changed from linear_kernel
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
-import torch
-from transformers import BertTokenizer, BertModel
 
 # Cấu hình kết nối MySQL (Giống với import_to_database.py)
 DB_CONFIG = {
@@ -22,27 +21,9 @@ DB_CONFIG = {
 }
 TABLE_NAME = 'anime'
 
-# Tải mô hình BERT và tokenizer (nên tải một lần)
-# Sử dụng bert-base-uncased cho tiếng Anh. Nếu có tiếng Việt, cân nhắc 'bert-base-multilingual-cased'
-TOKENIZER_NAME = 'bert-base-uncased'
-MODEL_NAME = 'bert-base-uncased'
-tokenizer = None
-bert_model = None
-try:
-    print(f"Đang tải tokenizer: {TOKENIZER_NAME}...")
-    tokenizer = BertTokenizer.from_pretrained(TOKENIZER_NAME)
-    print(f"Đang tải model: {MODEL_NAME}...")
-    bert_model = BertModel.from_pretrained(MODEL_NAME)
-    print("BERT model và tokenizer đã tải xong.")
-    # Đặt model ở chế độ eval nếu bạn không fine-tune
-    bert_model.eval()
-except Exception as e:
-    print(f"Lỗi khi tải BERT model/tokenizer: {e}")
-    print("Vui lòng đảm bảo bạn đã cài đặt thư viện 'transformers' và 'torch', và có kết nối internet để tải model lần đầu.")
-    # Script sẽ tiếp tục nhưng các hàm dựa trên BERT sẽ không hoạt động
-
-# Biến toàn cục để lưu trữ embeddings
-movie_embeddings = None
+# Biến toàn cục để lưu trữ TF-IDF matrix
+tfidf_matrix = None
+tfidf_vectorizer = None
 
 def load_data_from_db():
     """Tải dữ liệu anime từ MySQL database."""
@@ -60,76 +41,49 @@ def load_data_from_db():
         print(f"Lỗi khi tải dữ liệu từ database: {str(e)}")
         return pd.DataFrame()
 
-def get_bert_embedding(text, model, tokenizer_instance):
-    """Tạo embedding cho một đoạn văn bản sử dụng BERT."""
-    if model is None or tokenizer_instance is None:
-        print("BERT model hoặc tokenizer chưa được tải. Không thể tạo embedding.")
-        return np.zeros(768) 
-        
-    if text is None or not isinstance(text, str) or not text.strip():
-        return np.zeros(model.config.hidden_size) 
-    try:
-        inputs = tokenizer_instance(text, return_tensors='pt', truncation=True, padding=True, max_length=512)
-        with torch.no_grad(): 
-            outputs = model(**inputs)
-        return outputs.last_hidden_state[:,0,:].squeeze().cpu().numpy()
-    except Exception as e:
-        print(f"Lỗi khi tạo BERT embedding cho text '{text[:50]}...': {e}")
-        return np.zeros(model.config.hidden_size)
-
-def get_content_based_recommendations_bert(movie_title, n_recommendations=5):
+def get_content_based_recommendations_tfidf(movie_title, df, top_n=5):
     """
-    Gợi ý phim dựa trên nội dung sử dụng BERT embeddings.
+    Gợi ý phim dựa trên nội dung sử dụng TF-IDF.
     
     Args:
         movie_title (str): Tên phim cần gợi ý
-        n_recommendations (int): Số lượng phim gợi ý
+        df (DataFrame): DataFrame chứa dữ liệu phim
+        top_n (int): Số lượng phim gợi ý
         
     Returns:
         list: Danh sách các phim được gợi ý
     """
-    global movie_embeddings
+    global tfidf_matrix, tfidf_vectorizer
     
-    # Kiểm tra xem phim có trong dataset không
-    if movie_title not in anime_df['title'].values:
+    if movie_title not in df['title'].values:
         return []
     
-    # Lấy index của phim
-    movie_idx = anime_df[anime_df['title'] == movie_title].index[0]
+    # Tạo corpus từ title, genres và description
+    df['content'] = df['title'] + ' ' + df['genres'].fillna('') + ' ' + df['description'].fillna('')
     
-    # Nếu chưa có embeddings, tạo mới
-    if movie_embeddings is None:
-        print("Đang tạo embeddings cho tất cả phim...")
-        movie_embeddings = []
-        for idx, row in anime_df.iterrows():
-            # Kết hợp các thông tin thành một chuỗi
-            text = f"{row['title']} {row['genres']} {row['description']}"
-            # Tokenize và tạo embedding
-            inputs = tokenizer(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
-            with torch.no_grad():
-                outputs = bert_model(**inputs)
-            # Lấy embedding của [CLS] token
-            embedding = outputs.last_hidden_state[0][0].numpy()
-            movie_embeddings.append(embedding)
-        movie_embeddings = np.array(movie_embeddings)
-        
-        # Lưu embeddings vào file
-        print("Đang lưu embeddings vào file...")
-        with open("bert_embeddings.pkl", "wb") as f:
-            pickle.dump(movie_embeddings, f)
-        print("Đã lưu embeddings thành công.")
+    # Khởi tạo TF-IDF vectorizer nếu chưa có
+    if tfidf_vectorizer is None:
+        tfidf_vectorizer = TfidfVectorizer(
+            stop_words='english',
+            max_features=5000,
+            ngram_range=(1, 2)
+        )
+        tfidf_matrix = tfidf_vectorizer.fit_transform(df['content'])
+    
+    # Lấy index của phim
+    movie_idx = df[df['title'] == movie_title].index[0]
     
     # Tính toán độ tương đồng cosine
-    movie_embedding = movie_embeddings[movie_idx]
-    similarities = cosine_similarity([movie_embedding], movie_embeddings)[0]
+    movie_vector = tfidf_matrix[movie_idx]
+    similarities = cosine_similarity(movie_vector, tfidf_matrix).flatten()
     
     # Lấy các phim tương tự nhất (bỏ qua chính nó)
-    similar_indices = similarities.argsort()[::-1][1:n_recommendations+1]
+    similar_indices = similarities.argsort()[::-1][1:top_n+1]
     
     # Trả về danh sách các phim được gợi ý
     recommendations = []
     for idx in similar_indices:
-        movie = anime_df.iloc[idx]
+        movie = df.iloc[idx]
         recommendations.append({
             'title': movie['title'],
             'genres': movie['genres'],
@@ -182,23 +136,19 @@ def get_simplified_collaborative_recommendations(input_movie_title, df, top_n=10
 
 
 if __name__ == "__main__":
-    if bert_model is None or tokenizer is None:
-        print("Thoát chương trình do BERT model/tokenizer không tải được.")
-        exit()
-        
     anime_df = load_data_from_db()
 
     if not anime_df.empty:
         target_anime_title = "One Piece" 
 
         if target_anime_title in anime_df['title'].values:
-            print(f"\n--- Gợi ý Content-Based (BERT) cho '{target_anime_title}' ---")
-            cb_bert_recommendations = get_content_based_recommendations_bert(target_anime_title, anime_df.copy())
-            if cb_bert_recommendations:
-                for i, rec_title in enumerate(cb_bert_recommendations):
-                    print(f"{i+1}. {rec_title}")
+            print(f"\n--- Gợi ý Content-Based (TF-IDF) cho '{target_anime_title}' ---")
+            cb_tfidf_recommendations = get_content_based_recommendations_tfidf(target_anime_title, anime_df.copy())
+            if cb_tfidf_recommendations:
+                for i, rec in enumerate(cb_tfidf_recommendations):
+                    print(f"{i+1}. {rec['title']} (Độ tương đồng: {rec['similarity_score']:.2f})")
             else:
-                print("Không có gợi ý nào từ Content-Based (BERT).")
+                print("Không có gợi ý nào từ Content-Based (TF-IDF).")
 
             print(f"\n--- Gợi ý Collaborative Filtering (Đơn giản hóa) cho '{target_anime_title}' ---")
             scf_recommendations = get_simplified_collaborative_recommendations(target_anime_title, anime_df.copy())

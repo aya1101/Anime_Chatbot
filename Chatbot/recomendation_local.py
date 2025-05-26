@@ -15,7 +15,6 @@ if sys.platform == 'win32':
 def load_data():
     """Tải dữ liệu từ file JSON."""
     try:
-        # Sử dụng đường dẫn tương đối
         json_path = os.path.join('data', 'data_movies.json')
         
         print(f"Đang tìm file JSON tại: {json_path}")
@@ -24,20 +23,19 @@ def load_data():
             print(f"Không tìm thấy file tại: {json_path}")
             return pd.DataFrame()
             
-        # Đọc file JSON
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
-        # Chuyển đổi dữ liệu thành DataFrame
+        
         movies_list = []
         for movie_id, movie_data in data.items():
             movie_data['movie_id'] = movie_id
-            # Chuyển đổi genre từ list thành string
+            # list -> string
             movie_data['genres'] = ', '.join(movie_data['genre'])
-            # Tách rating thành score và count
+        
             movie_data['rating_score'] = float(movie_data['rating'][0])
             movie_data['rating_count'] = int(movie_data['rating'][1])
-            # Xóa các trường không cần thiết
+            
             del movie_data['genre']
             del movie_data['rating']
             movies_list.append(movie_data)
@@ -49,33 +47,36 @@ def load_data():
         print(f"Lỗi khi tải dữ liệu: {str(e)}")
         return pd.DataFrame()
 
-def get_content_based_recommendations_tfidf(movie_title, df, top_n=5):
+def load_vietnamese_stopwords(filepath="data/stopwords-vi.txt"):
+    with open(filepath, "r", encoding="utf-8") as f:
+        stopwords = [line.strip() for line in f if line.strip()]
+    return stopwords
+
+def get_content_based_recommendations_tfidf(movie_title, df, top_n):
     """Gợi ý phim dựa trên nội dung sử dụng TF-IDF."""
     if movie_title not in df['title'].values:
         return []
     
     # Tạo corpus từ title, genres và description
     df['content'] = df['title'] + ' ' + df['genres'].fillna('') + ' ' + df['description'].fillna('')
-    
-    # Khởi tạo TF-IDF vectorizer
+    vietnamese_stopwords = load_vietnamese_stopwords()
     tfidf_vectorizer = TfidfVectorizer(
-        stop_words='english',
+        stop_words=vietnamese_stopwords,
         max_features=5000,
         ngram_range=(1, 2)
     )
     tfidf_matrix = tfidf_vectorizer.fit_transform(df['content'])
     
-    # Lấy index của phim
+    
     movie_idx = df[df['title'] == movie_title].index[0]
     
-    # Tính toán độ tương đồng cosine
+    # độ tương đồng cosine
     movie_vector = tfidf_matrix[movie_idx]
     similarities = cosine_similarity(movie_vector, tfidf_matrix).flatten()
     
-    # Lấy các phim tương tự nhất (bỏ qua chính nó)
+    # Lấ top n
     similar_indices = similarities.argsort()[::-1][1:top_n+1]
     
-    # Trả về danh sách các phim được gợi ý
     recommendations = []
     for idx in similar_indices:
         movie = df.iloc[idx]
@@ -88,18 +89,18 @@ def get_content_based_recommendations_tfidf(movie_title, df, top_n=5):
     
     return recommendations
 
-def get_genre_based_recommendations(genre, df, top_n=5):
+def get_genre_based_recommendations(genre, df, top_n):
     """Gợi ý phim dựa trên thể loại."""
     if df.empty:
         return []
     
-    # Tìm các phim có chứa thể loại được chọn
+    # Filtering 
     genre_movies = df[df['genres'].str.contains(genre, case=False, na=False)]
     
     if genre_movies.empty:
         return []
     
-    # Sắp xếp theo rating_score (nếu có) hoặc rating_count
+    # Sắp xếp theo rating_score/rating_count
     if 'rating_score' in genre_movies.columns:
         genre_movies = genre_movies.sort_values('rating_score', ascending=False)
     
@@ -116,7 +117,6 @@ def get_genre_based_recommendations(genre, df, top_n=5):
     return recommendations
 
 def main():
-    # Tải dữ liệu
     df = load_data()
     if df.empty:
         print("Không thể tải dữ liệu. Vui lòng kiểm tra file JSON.")
@@ -132,8 +132,11 @@ def main():
         
         if choice == '1':
             movie_title = input("\nNhập tên phim yêu thích: ")
-            print(f"\nĐang tìm phim tương tự với '{movie_title}'...")
-            recommendations = get_content_based_recommendations_tfidf(movie_title, df)
+            try:
+                top_n = int(input("Nhập số lượng phim muốn đề xuất (mặc định 5): ") or 5)
+            except ValueError:
+                top_n = 5
+            recommendations = get_content_based_recommendations_tfidf(movie_title, df, top_n=top_n)
             
             if recommendations:
                 print("\nCác phim được gợi ý:")
@@ -153,8 +156,11 @@ def main():
             print(', '.join(sorted(genres)))
             
             genre = input("\nNhập thể loại phim yêu thích: ")
-            print(f"\nĐang tìm phim thể loại '{genre}'...")
-            recommendations = get_genre_based_recommendations(genre, df)
+            try:
+                top_n = int(input("Nhập số lượng phim muốn đề xuất (mặc định 10): ") or 10)
+            except ValueError:
+                top_n = 10
+            recommendations = get_genre_based_recommendations(genre, df, top_n=top_n)
             
             if recommendations:
                 print("\nCác phim được gợi ý:")
@@ -168,11 +174,11 @@ def main():
                 print(f"Không tìm thấy phim nào thuộc thể loại '{genre}'.")
         
         elif choice == '3':
-            print("\nCảm ơn bạn đã sử dụng hệ thống gợi ý phim!")
+            print("\nBýe!")
             break
         
         else:
-            print("\nLựa chọn không hợp lệ. Vui lòng chọn lại.")
+            print("\nLựa chọn không hợp lệ.")
 
 if __name__ == "__main__":
     main() 

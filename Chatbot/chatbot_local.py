@@ -86,7 +86,7 @@ class MovieChatbot:
             
             # Khởi tạo embeddings
             embeddings = HuggingFaceEmbeddings(
-                model_name="google/flan-t5-xl"
+                model_name="google/flan-t5-large"
             )
             
             # Tạo vector store
@@ -123,8 +123,9 @@ class MovieChatbot:
             try:
                 self.api_key = api_key
                 llm = HuggingFaceHub(
-                    repo_id="google/flan-t5-xl",
-                    model_kwargs={"temperature": 0.5},
+                    repo_id="declare-lab/flan-alpaca-large",
+                    task="text2text-generation",
+                    model_kwargs={"temperature": 0.5, "max_length": 512},
                     huggingfacehub_api_token=api_key
                 )
                 
@@ -191,28 +192,22 @@ def create_chatbot_interface():
         # Tạo giao diện Gradio
         with gr.Blocks(title="Chatbot Phim", theme=gr.themes.Soft()) as demo:
             gr.Markdown("""
-            # 🤖 Chatbot Phim
+            # 🤖 OtakuBot
             Chatbot này có thể trả lời các câu hỏi về phim dựa trên dữ liệu phim có sẵn.
             
             ### Các tính năng:
             - Tìm kiếm thông tin phim
             - Gợi ý phim theo thể loại
             - Xem đánh giá và mô tả phim
-            
-            ### Ví dụ câu hỏi:
-            - "Kể cho tôi về phim One Piece"
-            - "Có những phim hành động nào đang chiếu?"
-            - "Phim nào có rating cao nhất?"
-            - "Tìm phim có thể loại Học đường"
             """)
             
             chatbot_interface = gr.ChatInterface(
                 fn=chatbot.chat,
                 title="Chat với Bot",
-                description="Nhập câu hỏi của bạn về phim...",
+                description="Nhập câu hỏi của bạn về anime...",
                 examples=[
                     "Kể cho tôi về phim One Piece",
-                    "Có những phim hành động nào đang chiếu?",
+                    "Có những phim boylove nào đang chiếu?",
                     "Phim nào có rating cao nhất?",
                     "Tìm phim có thể loại Học đường"
                 ],
@@ -229,7 +224,7 @@ def main():
     if demo:
         demo.launch(share=True)
     else:
-        print("Không thể khởi tạo chatbot. Vui lòng kiểm tra lại cấu hình.")
+        print("Không thể khởi tạo chatbot. ")
 
 if __name__ == "__main__":
     main() 

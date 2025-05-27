@@ -41,6 +41,6 @@ ENV/
 
 # Local development settings
 .env.local 
-
+.env
 .gradio
 .idea/

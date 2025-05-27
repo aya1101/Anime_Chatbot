@@ -11,17 +11,7 @@ OtakuBot là một hệ thống chatbot và gợi ý phim (anime) sử dụng AI
 - **Chatbot phim:** Trả lời tự động các câu hỏi về phim dựa trên dữ liệu phim có sẵn.
 - **Gợi ý phim:** Đề xuất phim dựa trên phim yêu thích hoặc thể loại bạn chọn.
 
-## 🛠️ Công nghệ sử dụng
-
-- Python 3.8+
-- [LangChain](https://github.com/langchain-ai/langchain)
-- [HuggingFace Transformers](https://huggingface.co/)
-- [FAISS](https://github.com/facebookresearch/faiss)
-- [Gradio](https://gradio.app/)
-- [scikit-learn](https://scikit-learn.org/)
-- [dotenv](https://pypi.org/project/python-dotenv/)
-
-## 📦 Cài đặt
+##  Cài đặt
 
 1. **Clone repo:**
     ```sh
@@ -66,7 +56,7 @@ Sau đó mở đường link Gradio để chat với bot.
 - **Chatbot:** Nhập câu hỏi về phim, thể loại, đánh giá, v.v.
 - **Gợi ý phim:** Chạy script recommendation để nhận đề xuất phim theo sở thích.
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ```
 Recommendation_System/
@@ -83,17 +73,10 @@ Recommendation_System/
 └── README.md
 ```
 
-## ⚠️ Lưu ý bảo mật
-
-- **KHÔNG** commit file `.env` chứa token hoặc mật khẩu lên GitHub.
-- Đã có sẵn `.gitignore` để loại trừ `.env`.
-
-## 📚 Tham khảo
+## Tham khảo
 
 - [LangChain Docs](https://python.langchain.com/)
 - [HuggingFace Hub](https://huggingface.co/)
 - [Gradio Docs](https://gradio.app/docs/)
 
 ---
-
-**Chúc bạn trải nghiệm vui vẻ với OtakuBot!**

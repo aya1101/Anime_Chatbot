@@ -19,7 +19,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-.ipynb_checkpoints
 # Virtual Environment
 venv/
 .venv/
@@ -29,6 +28,7 @@ ENV/
 # IDE
 .idea/
 .vscode/
+.gradio/
 *.swp
 *.swo
 
@@ -40,7 +40,5 @@ ENV/
 *.log
 
 # Local development settings
-.env.local 
 .env
-.gradio
-.idea/
+.env.local 

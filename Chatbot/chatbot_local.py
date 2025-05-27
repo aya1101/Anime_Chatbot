@@ -2,7 +2,7 @@ import os
 import json
 from typing import List, Dict
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
@@ -66,12 +66,10 @@ class MovieChatbot:
     def create_vector_store(self, save_path: str = "vector_store"):
         """Tạo và lưu vector store từ dữ liệu phim."""
         try:
-            # Tải dữ liệu phim
             movies = self.load_movie_data()
             if not movies:
                 return
             
-            # Tách text thành các đoạn nhỏ
             text_splitter = RecursiveCharacterTextSplitter(
                 chunk_size=1000,
                 chunk_overlap=200
@@ -84,7 +82,7 @@ class MovieChatbot:
                 texts.extend(chunks)
                 metadatas.extend([movie['metadata']] * len(chunks))
             
-            # Khởi tạo embeddings
+            #embeddings
             embeddings = HuggingFaceEmbeddings(
                 model_name="google/flan-t5-large"
             )
@@ -121,9 +119,8 @@ class MovieChatbot:
     def setup_chain(self, api_key: str):
             """Thiết lập chuỗi xử lý với LLM."""
             try:
-                self.api_key = api_key
                 llm = HuggingFaceHub(
-                    repo_id="declare-lab/flan-alpaca-large",
+                    repo_id="google/flan-t5-large",  # Thay vì declare-lab/flan-alpaca-large
                     task="text2text-generation",
                     model_kwargs={"temperature": 0.5, "max_length": 512},
                     huggingfacehub_api_token=api_key
@@ -162,16 +159,16 @@ class MovieChatbot:
                 return False
 
     def chat(self, question: str, history: List[List[str]] = None) -> str:
-            """Xử lý câu hỏi và trả về câu trả lời."""
-            if not self.chain:
-                return "Vui lòng thiết lập API key trước khi chat."
-            
-            try:
-                response = self.chain({"question": question})
-                return response['answer']
-            except Exception as e:
-                return f"Lỗi khi xử lý câu hỏi: {str(e)}"
-
+        """Xử lý câu hỏi và trả về câu trả lời."""
+        if not self.chain:
+            return "Vui lòng thiết lập API key trước khi chat."
+        
+        try:
+            response = self.chain.invoke({"question": question})
+            return response['answer']
+        except Exception as e:
+            return f"Lỗi khi xử lý câu hỏi: {str(e)}"
+        
 def create_chatbot_interface():
     """Tạo giao diện Gradio cho chatbot."""
     try:
@@ -185,7 +182,7 @@ def create_chatbot_interface():
             print("Đang tải vector store đã lưu...")
             chatbot.load_vector_store()
         
-        # Thiết lập chain với API key từ .env
+        # Thiết lập chain 
         if not chatbot.setup_chain(chatbot.api_key):
             raise ValueError("Không thể thiết lập chain với API key")
         
